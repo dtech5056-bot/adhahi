@@ -1,0 +1,226 @@
+[
+    {
+        "id": 639,
+        "code": "1826",
+        "name": "BORDJ THAR",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 635,
+        "code": "1822",
+        "name": "BOUDRIA BENI YADJIS",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 629,
+        "code": "1816",
+        "name": "BOURAOUI BELHADEF",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 621,
+        "code": "1808",
+        "name": "CHAHNA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 620,
+        "code": "1807",
+        "name": "CHEKFA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 638,
+        "code": "1825",
+        "name": "DJEMAA BENI HABIBI",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 630,
+        "code": "1817",
+        "name": "DJIMLA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 625,
+        "code": "1812",
+        "name": "EL ANCER",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 633,
+        "code": "1820",
+        "name": "EL-KENNAR NOUCHFI",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 622,
+        "code": "1809",
+        "name": "EL-MILIA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 615,
+        "code": "1802",
+        "name": "ERRAGUENE SOUICI",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 628,
+        "code": "1815",
+        "name": "GHEBALA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 636,
+        "code": "1823",
+        "name": "KHIRI OUED ADJOUL",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 640,
+        "code": "1827",
+        "name": "OULED RABAH",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 631,
+        "code": "1818",
+        "name": "SELMA BEN ZIADA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 624,
+        "code": "1811",
+        "name": "SETTARA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 623,
+        "code": "1810",
+        "name": "SIDI MAROUF",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 637,
+        "code": "1824",
+        "name": "TEXENNA",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 632,
+        "code": "1819",
+        "name": "boussif ouled askeur",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 616,
+        "code": "1803",
+        "name": "el-aouana",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 619,
+        "code": "1806",
+        "name": "emir abdelkader",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 614,
+        "code": "1801",
+        "name": "jijel",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 627,
+        "code": "1814",
+        "name": "kaous",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 641,
+        "code": "1828",
+        "name": "oudjana",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 634,
+        "code": "1821",
+        "name": "ouled yahia khadrouche",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 626,
+        "code": "1813",
+        "name": "sidiabdelaziz",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 618,
+        "code": "1805",
+        "name": "taher",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    },
+    {
+        "id": 617,
+        "code": "1804",
+        "name": "ziama menssouriah",
+        "wilayaId": 18,
+        "wilayaName": "Jijel",
+        "isActive": true
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "id": 655,
+        "code": "1914",
+        "name": "AIN ABESSA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 681,
+        "code": "1940",
+        "name": "AIN AZEL",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 643,
+        "code": "1902",
+        "name": "AIN EL KEBIRA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 669,
+        "code": "1928",
+        "name": "AIN OULMENE",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 647,
+        "code": "1906",
+        "name": "Ain Roua",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 659,
+        "code": "1918",
+        "name": "Ain lahdjar",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 690,
+        "code": "1949",
+        "name": "Ain-Sebt",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 692,
+        "code": "1951",
+        "name": "Ait Noual Mzada",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 668,
+        "code": "1927",
+        "name": "Amoucha",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 672,
+        "code": "1931",
+        "name": "BAZER SAKRA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 670,
+        "code": "1929",
+        "name": "BEIDA BORDJ",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 666,
+        "code": "1925",
+        "name": "BELLAA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 644,
+        "code": "1903",
+        "name": "BENI AZIZ",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 650,
+        "code": "1909",
+        "name": "BENI CHEBANA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 685,
+        "code": "1944",
+        "name": "BENI FOUDA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 649,
+        "code": "1908",
+        "name": "BIR EL ARCHE",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 675,
+        "code": "1934",
+        "name": "BIR HADDADA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 684,
+        "code": "1943",
+        "name": "BOUGAA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 657,
+        "code": "1916",
+        "name": "Babor",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 687,
+        "code": "1946",
+        "name": "Beni Mouhli",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 663,
+        "code": "1922",
+        "name": "Beni-Ourtilane",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 671,
+        "code": "1930",
+        "name": "Bouandas",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 646,
+        "code": "1905",
+        "name": "Boutaleb",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 662,
+        "code": "1921",
+        "name": "DJEMILA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 648,
+        "code": "1907",
+        "name": "DRAA KEBILA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 656,
+        "code": "1915",
+        "name": "Dehamcha",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 661,
+        "code": "1920",
+        "name": "El Eulma",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 678,
+        "code": "1937",
+        "name": "El ouricia",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 700,
+        "code": "1959",
+        "name": "El-ouldja",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 682,
+        "code": "1941",
+        "name": "GUENZET",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 658,
+        "code": "1917",
+        "name": "GUIDJEL",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 689,
+        "code": "1948",
+        "name": "Guellal",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 697,
+        "code": "1956",
+        "name": "Guelt Zerga",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 652,
+        "code": "1911",
+        "name": "Hamma",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 691,
+        "code": "1950",
+        "name": "Hammam-Guergour",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 693,
+        "code": "1952",
+        "name": "KSAR EL ABTAL",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 674,
+        "code": "1933",
+        "name": "MEZLOUG",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 653,
+        "code": "1912",
+        "name": "Maouia",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 665,
+        "code": "1924",
+        "name": "OULED ADOUANE",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 688,
+        "code": "1947",
+        "name": "OULED SABER",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 645,
+        "code": "1904",
+        "name": "OULED SI AHMED",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 651,
+        "code": "1910",
+        "name": "OULED-TEBBENE",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 698,
+        "code": "1957",
+        "name": "Oued el bared",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 664,
+        "code": "1923",
+        "name": "Rasfa",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 680,
+        "code": "1939",
+        "name": "SALAH BEY",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 676,
+        "code": "1935",
+        "name": "SERDJ EL GHOUL",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 686,
+        "code": "1945",
+        "name": "TACHOUDA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 699,
+        "code": "1958",
+        "name": "TAYA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 701,
+        "code": "1960",
+        "name": "TELLA",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 679,
+        "code": "1938",
+        "name": "Tizi N'bechar",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 667,
+        "code": "1926",
+        "name": "ain arnat",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 654,
+        "code": "1913",
+        "name": "ain legradj",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 695,
+        "code": "1954",
+        "name": "ait tizi",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 694,
+        "code": "1953",
+        "name": "beni oussine",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 660,
+        "code": "1919",
+        "name": "bousselam",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 673,
+        "code": "1932",
+        "name": "hammam sokhna",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 677,
+        "code": "1936",
+        "name": "harbil",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 696,
+        "code": "1955",
+        "name": "maoklane",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 642,
+        "code": "1901",
+        "name": "setif",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    },
+    {
+        "id": 683,
+        "code": "1942",
+        "name": "tala ifacene",
+        "wilayaId": 19,
+        "wilayaName": "Sétif",
+        "isActive": true
+    }
+]

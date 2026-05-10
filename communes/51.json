@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1500,
+        "code": "5106",
+        "name": "CHAIBA",
+        "wilayaId": 51,
+        "wilayaName": "Ouled Djellal",
+        "isActive": true
+    },
+    {
+        "id": 1499,
+        "code": "5105",
+        "name": "DOUCEN",
+        "wilayaId": 51,
+        "wilayaName": "Ouled Djellal",
+        "isActive": true
+    },
+    {
+        "id": 1497,
+        "code": "5103",
+        "name": "EL BESBES",
+        "wilayaId": 51,
+        "wilayaName": "Ouled Djellal",
+        "isActive": true
+    },
+    {
+        "id": 1495,
+        "code": "5101",
+        "name": "OULED DJELLAL",
+        "wilayaId": 51,
+        "wilayaName": "Ouled Djellal",
+        "isActive": true
+    },
+    {
+        "id": 1496,
+        "code": "5102",
+        "name": "RAS EL MIAD",
+        "wilayaId": 51,
+        "wilayaName": "Ouled Djellal",
+        "isActive": true
+    },
+    {
+        "id": 1498,
+        "code": "5104",
+        "name": "SIDI KHALED",
+        "wilayaId": 51,
+        "wilayaName": "Ouled Djellal",
+        "isActive": true
+    }
+]

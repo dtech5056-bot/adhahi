@@ -1,0 +1,194 @@
+[
+    {
+        "id": 70,
+        "code": "0319",
+        "name": "AFLOU",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 58,
+        "code": "0307",
+        "name": "AIN MADHI",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 62,
+        "code": "0311",
+        "name": "Ain sidi ali",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 54,
+        "code": "0303",
+        "name": "BENACER BENCHOHRA",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 63,
+        "code": "0312",
+        "name": "El Beidha",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 65,
+        "code": "0314",
+        "name": "El Ghicha",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 74,
+        "code": "0323",
+        "name": "El Haouaita",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 66,
+        "code": "0315",
+        "name": "HADJ MECHRI",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 56,
+        "code": "0305",
+        "name": "HASSI DELAA",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 57,
+        "code": "0306",
+        "name": "Hassi Rmel",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 53,
+        "code": "0302",
+        "name": "KSAR EL HIRANE",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 52,
+        "code": "0301",
+        "name": "Laghouat",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 72,
+        "code": "0321",
+        "name": "OUED MORRA",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 73,
+        "code": "0322",
+        "name": "OUED MZI",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 67,
+        "code": "0316",
+        "name": "SEBGAG",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 75,
+        "code": "0324",
+        "name": "SIDI BOUZID",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 55,
+        "code": "0304",
+        "name": "SIDI MAKHLOULF",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 69,
+        "code": "0318",
+        "name": "TADJROUNA",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 64,
+        "code": "0313",
+        "name": "brida",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 71,
+        "code": "0320",
+        "name": "el assafia",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 60,
+        "code": "0309",
+        "name": "el kheng",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 61,
+        "code": "0310",
+        "name": "gueltat sidi saad",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 59,
+        "code": "0308",
+        "name": "tadjmout",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    },
+    {
+        "id": 68,
+        "code": "0317",
+        "name": "taouala",
+        "wilayaId": 3,
+        "wilayaName": "Laghouat",
+        "isActive": true
+    }
+]

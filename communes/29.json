@@ -1,0 +1,378 @@
+[
+    {
+        "id": 1032,
+        "code": "2924",
+        "name": "AIN FARES",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1026,
+        "code": "2918",
+        "name": "AIN FEKAN",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1019,
+        "code": "2911",
+        "name": "AIN FERAH",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1033,
+        "code": "2925",
+        "name": "AINFRASS",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1036,
+        "code": "2928",
+        "name": "ALAIMIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1031,
+        "code": "2923",
+        "name": "AOUF",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1027,
+        "code": "2919",
+        "name": "BENIAN",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1010,
+        "code": "2902",
+        "name": "BOUHANIFIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1045,
+        "code": "2937",
+        "name": "BOUHENNI",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1051,
+        "code": "2943",
+        "name": "CHORFA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1042,
+        "code": "2934",
+        "name": "EL -GHOMRI",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1025,
+        "code": "2917",
+        "name": "EL BORDJ",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1037,
+        "code": "2929",
+        "name": "EL GAADA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1048,
+        "code": "2940",
+        "name": "EL KEURT",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1047,
+        "code": "2939",
+        "name": "EL MAMOUNIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1029,
+        "code": "2921",
+        "name": "EL-MENAOUER",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1046,
+        "code": "2938",
+        "name": "ELGUEITHNA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1041,
+        "code": "2933",
+        "name": "FERRAGUIG",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1021,
+        "code": "2913",
+        "name": "FROHA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1049,
+        "code": "2941",
+        "name": "GHAROUSS",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1020,
+        "code": "2912",
+        "name": "GHRISS",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1050,
+        "code": "2942",
+        "name": "GUERDJOUM",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1015,
+        "code": "2907",
+        "name": "HACHEM",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1012,
+        "code": "2904",
+        "name": "HACINE",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1028,
+        "code": "2920",
+        "name": "KHALOUIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1023,
+        "code": "2915",
+        "name": "MAKHDA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1013,
+        "code": "2905",
+        "name": "MAOUSSA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1009,
+        "code": "2901",
+        "name": "MASCARA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1022,
+        "code": "2914",
+        "name": "MATEMORE",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1044,
+        "code": "2936",
+        "name": "MOCTA-DOUZ",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1039,
+        "code": "2931",
+        "name": "MOHAMMADIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1053,
+        "code": "2945",
+        "name": "NESMOTH",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1035,
+        "code": "2927",
+        "name": "OGGAZ",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1018,
+        "code": "2910",
+        "name": "OUED ABTAL",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1030,
+        "code": "2922",
+        "name": "OUED TARIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1052,
+        "code": "2944",
+        "name": "RAS AIN AMIROUCHE",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1043,
+        "code": "2935",
+        "name": "SEDJERARA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1055,
+        "code": "2947",
+        "name": "SEHAILIA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1054,
+        "code": "2946",
+        "name": "SIDI ABD ELDJEBBAR",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1040,
+        "code": "2932",
+        "name": "SIDI ABDELMOUMENE",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1024,
+        "code": "2916",
+        "name": "SIDI BOUSSAID",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1016,
+        "code": "2908",
+        "name": "SIDI-KADA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1034,
+        "code": "2926",
+        "name": "SIG",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1014,
+        "code": "2906",
+        "name": "TIGHENNIF",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1011,
+        "code": "2903",
+        "name": "TIZI",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1038,
+        "code": "2930",
+        "name": "ZAHANA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    },
+    {
+        "id": 1017,
+        "code": "2909",
+        "name": "ZELAMTA",
+        "wilayaId": 29,
+        "wilayaName": "Mascara",
+        "isActive": true
+    }
+]

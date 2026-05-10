@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1187,
+        "code": "3606",
+        "name": "AIN EL ASSEL",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1202,
+        "code": "3621",
+        "name": "AIN KERMA",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1198,
+        "code": "3617",
+        "name": "Asfour",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1184,
+        "code": "3603",
+        "name": "BEN MHIDI",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1191,
+        "code": "3610",
+        "name": "BERRIHANE",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1197,
+        "code": "3616",
+        "name": "BESBES",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1183,
+        "code": "3602",
+        "name": "BOUHADJAR",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1185,
+        "code": "3604",
+        "name": "Bougous",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1189,
+        "code": "3608",
+        "name": "Bouteldja",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1196,
+        "code": "3615",
+        "name": "CHBAITA MOKHTAR",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1195,
+        "code": "3614",
+        "name": "Chihani",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1194,
+        "code": "3613",
+        "name": "Drean",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1199,
+        "code": "3618",
+        "name": "ECHATT",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1188,
+        "code": "3607",
+        "name": "EL AIOUN",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1182,
+        "code": "3601",
+        "name": "El Taref",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1204,
+        "code": "3623",
+        "name": "HAMMAM BENI SALAH",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1192,
+        "code": "3611",
+        "name": "LAC DES OISEAUX",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1203,
+        "code": "3622",
+        "name": "OUED ZITOUN",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1205,
+        "code": "3624",
+        "name": "RAMEL SOUK",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1190,
+        "code": "3609",
+        "name": "SOUAREKH",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1201,
+        "code": "3620",
+        "name": "Zitouna",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1193,
+        "code": "3612",
+        "name": "cheffia",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1186,
+        "code": "3605",
+        "name": "el kala",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    },
+    {
+        "id": 1200,
+        "code": "3619",
+        "name": "zerizer",
+        "wilayaId": 36,
+        "wilayaName": "El Tarf",
+        "isActive": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 327,
+        "code": "1102",
+        "name": "ABALESSA",
+        "wilayaId": 11,
+        "wilayaName": "Tamanrasset",
+        "isActive": true
+    },
+    {
+        "id": 328,
+        "code": "1105",
+        "name": "IDELESS",
+        "wilayaId": 11,
+        "wilayaName": "Tamanrasset",
+        "isActive": true
+    },
+    {
+        "id": 330,
+        "code": "1109",
+        "name": "IN AMGUEL",
+        "wilayaId": 11,
+        "wilayaName": "Tamanrasset",
+        "isActive": true
+    },
+    {
+        "id": 329,
+        "code": "1106",
+        "name": "TAZROUK",
+        "wilayaId": 11,
+        "wilayaName": "Tamanrasset",
+        "isActive": true
+    },
+    {
+        "id": 326,
+        "code": "1101",
+        "name": "tamanrasset",
+        "wilayaId": 11,
+        "wilayaName": "Tamanrasset",
+        "isActive": true
+    }
+]

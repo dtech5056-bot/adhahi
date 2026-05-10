@@ -1,0 +1,418 @@
+[
+    {
+        "id": 785,
+        "code": "2230",
+        "name": "AIN ADDEN",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 783,
+        "code": "2228",
+        "name": "AIN ELBERD",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 780,
+        "code": "2225",
+        "name": "AIN KADA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 770,
+        "code": "2215",
+        "name": "AIN THRID",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 779,
+        "code": "2224",
+        "name": "AN TENDEMINE",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 764,
+        "code": "2209",
+        "name": "BEDRABINEELMOKRANI",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 797,
+        "code": "2242",
+        "name": "BELARBI",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 800,
+        "code": "2245",
+        "name": "BEN BADIS",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 806,
+        "code": "2251",
+        "name": "BENACHIBA CHELIA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 803,
+        "code": "2248",
+        "name": "BIR ELHAMAM",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 793,
+        "code": "2238",
+        "name": "BOUDJEBHA EL BORDJ",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 762,
+        "code": "2207",
+        "name": "BOUKHANEFIS",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 802,
+        "code": "2247",
+        "name": "CHETOUANE BELAILA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 787,
+        "code": "2232",
+        "name": "DHAYA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 774,
+        "code": "2219",
+        "name": "EL HACAIBA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 767,
+        "code": "2212",
+        "name": "EL-AMARNAS",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 807,
+        "code": "2252",
+        "name": "HASSI DAHOU",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 775,
+        "code": "2220",
+        "name": "HASSI ZAHANA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 789,
+        "code": "2234",
+        "name": "LAMTAR",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 781,
+        "code": "2226",
+        "name": "M CID",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 771,
+        "code": "2216",
+        "name": "MAKEDRA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 765,
+        "code": "2210",
+        "name": "MARHOUM",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 777,
+        "code": "2222",
+        "name": "MERINE",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 759,
+        "code": "2204",
+        "name": "MESTFA BEN BRAHIM",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 761,
+        "code": "2206",
+        "name": "MEZAOUROU",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 773,
+        "code": "2218",
+        "name": "Moulay Slissen",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 798,
+        "code": "2243",
+        "name": "OUED SEFIOUNE",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 786,
+        "code": "2231",
+        "name": "OUED TAOURIRA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 778,
+        "code": "2223",
+        "name": "RAS ELMA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 805,
+        "code": "2250",
+        "name": "REDJEM DEMOUCHE",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 784,
+        "code": "2229",
+        "name": "SFISEF",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 794,
+        "code": "2239",
+        "name": "SHALA EL THAOURA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 801,
+        "code": "2246",
+        "name": "SIDI ALI BENYOUB",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 763,
+        "code": "2208",
+        "name": "SIDI ALI BOUSSIDI",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 756,
+        "code": "2201",
+        "name": "SIDI BEL ABBES",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 758,
+        "code": "2203",
+        "name": "SIDI BRAHIM",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 791,
+        "code": "2236",
+        "name": "SIDI DAHOU DES ZAIRES",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 796,
+        "code": "2241",
+        "name": "SIDI HAMADOUCHE",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 782,
+        "code": "2227",
+        "name": "SIDI KHALED",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 769,
+        "code": "2214",
+        "name": "SIDI LAHCEN",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 795,
+        "code": "2240",
+        "name": "SIDI YAGOUB",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 776,
+        "code": "2221",
+        "name": "TABIA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 804,
+        "code": "2249",
+        "name": "TAOUDMOUT",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 766,
+        "code": "2211",
+        "name": "TEFESSOUR",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 799,
+        "code": "2244",
+        "name": "TEGHALIMET",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 760,
+        "code": "2205",
+        "name": "TELAGH",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 772,
+        "code": "2217",
+        "name": "TENIRA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 757,
+        "code": "2202",
+        "name": "TESSALA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 768,
+        "code": "2213",
+        "name": "TILMOUNI",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 788,
+        "code": "2233",
+        "name": "ZEROUALA",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 792,
+        "code": "2237",
+        "name": "oued sebaa",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    },
+    {
+        "id": 790,
+        "code": "2235",
+        "name": "sidi chaib",
+        "wilayaId": 22,
+        "wilayaName": "Sidi Bel Abbès",
+        "isActive": true
+    }
+]

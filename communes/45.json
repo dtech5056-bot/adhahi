@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1401,
+        "code": "4507",
+        "name": "ASLA",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1403,
+        "code": "4509",
+        "name": "Ain Ben Khelil",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1397,
+        "code": "4503",
+        "name": "Ain Sefra",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1402,
+        "code": "4508",
+        "name": "Djeniene Bourezg",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1406,
+        "code": "4512",
+        "name": "ELBIODH",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1405,
+        "code": "4511",
+        "name": "Kasdir",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1396,
+        "code": "4502",
+        "name": "Mecheria",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1404,
+        "code": "4510",
+        "name": "Mekmen Ben Amar",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1400,
+        "code": "4506",
+        "name": "Moghrar",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1395,
+        "code": "4501",
+        "name": "Naama",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1399,
+        "code": "4505",
+        "name": "Sfissifa",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    },
+    {
+        "id": 1398,
+        "code": "4504",
+        "name": "TIOUT",
+        "wilayaId": 45,
+        "wilayaName": "Naâma",
+        "isActive": true
+    }
+]

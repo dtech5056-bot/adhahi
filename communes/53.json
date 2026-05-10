@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1513,
+        "code": "5303",
+        "name": "FOGGARET AZZAOUIA",
+        "wilayaId": 53,
+        "wilayaName": "In Salah",
+        "isActive": true
+    },
+    {
+        "id": 1512,
+        "code": "5302",
+        "name": "IN GHAR",
+        "wilayaId": 53,
+        "wilayaName": "In Salah",
+        "isActive": true
+    },
+    {
+        "id": 1511,
+        "code": "5301",
+        "name": "IN SALAH",
+        "wilayaId": 53,
+        "wilayaName": "In Salah",
+        "isActive": true
+    }
+]

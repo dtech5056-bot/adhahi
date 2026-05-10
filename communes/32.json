@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1098,
+        "code": "3209",
+        "name": "ARBAOUET",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1097,
+        "code": "3208",
+        "name": "Ain Orak",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1105,
+        "code": "3216",
+        "name": "BNOUD",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1099,
+        "code": "3210",
+        "name": "BOUGTOB",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1095,
+        "code": "3206",
+        "name": "Boualem",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1102,
+        "code": "3213",
+        "name": "Boussemghoun",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1093,
+        "code": "3204",
+        "name": "Brezina",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1106,
+        "code": "3217",
+        "name": "CHEGUIG",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1103,
+        "code": "3214",
+        "name": "CHELLALA",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1096,
+        "code": "3207",
+        "name": "EL ABYDH SID CHEIKH",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1090,
+        "code": "3201",
+        "name": "EL BAYADH",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1094,
+        "code": "3205",
+        "name": "EL GHASSOUL",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1100,
+        "code": "3211",
+        "name": "EL KHEITER",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1091,
+        "code": "3202",
+        "name": "EL ROGASSA",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1101,
+        "code": "3212",
+        "name": "KEF LAHMAR",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1104,
+        "code": "3215",
+        "name": "KERAKDA",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1108,
+        "code": "3219",
+        "name": "MEHARA",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1107,
+        "code": "3218",
+        "name": "SIDI AMAR",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1110,
+        "code": "3221",
+        "name": "SIDI SLIMANE",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1111,
+        "code": "3222",
+        "name": "SIDI TIFOUR",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1092,
+        "code": "3203",
+        "name": "Stiten",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    },
+    {
+        "id": 1109,
+        "code": "3220",
+        "name": "TOUSMOULINE",
+        "wilayaId": 32,
+        "wilayaName": "El Bayadh",
+        "isActive": true
+    }
+]

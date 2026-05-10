@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1057,
+        "code": "3002",
+        "name": "AINBEIDA",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1063,
+        "code": "3021",
+        "name": "El-Borma",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1062,
+        "code": "3012",
+        "name": "Hassi Ben Abdellah",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1058,
+        "code": "3003",
+        "name": "NGOUSSA",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1056,
+        "code": "3001",
+        "name": "Ouargla",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1060,
+        "code": "3005",
+        "name": "Rouissat",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1061,
+        "code": "3011",
+        "name": "Sidi Khouiled",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    },
+    {
+        "id": 1059,
+        "code": "3004",
+        "name": "hassi messaoud",
+        "wilayaId": 30,
+        "wilayaName": "Ouargla",
+        "isActive": true
+    }
+]

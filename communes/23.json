@@ -1,0 +1,98 @@
+[
+    {
+        "id": 816,
+        "code": "2309",
+        "name": "AIN BERDA",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 808,
+        "code": "2301",
+        "name": "ANNABA",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 809,
+        "code": "2302",
+        "name": "BERRAHAL",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 817,
+        "code": "2310",
+        "name": "CHETAIBI",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 814,
+        "code": "2307",
+        "name": "CHEURFA",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 812,
+        "code": "2305",
+        "name": "EL BOUNI",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 810,
+        "code": "2303",
+        "name": "EL HADJAR",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 813,
+        "code": "2306",
+        "name": "OUED EL ANEB",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 815,
+        "code": "2308",
+        "name": "SERAIDI",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 818,
+        "code": "2311",
+        "name": "SIDI AMAR",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 819,
+        "code": "2312",
+        "name": "TREAT",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    },
+    {
+        "id": 811,
+        "code": "2304",
+        "name": "eulma",
+        "wilayaId": 23,
+        "wilayaName": "Annaba",
+        "isActive": true
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "id": 739,
+        "code": "2122",
+        "name": "AIN BOUZIANE",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 721,
+        "code": "2104",
+        "name": "AZZABA",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 723,
+        "code": "2106",
+        "name": "Ain Charchar",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 744,
+        "code": "2127",
+        "name": "Ain Kechera",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 719,
+        "code": "2102",
+        "name": "Ain Zouit",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 724,
+        "code": "2107",
+        "name": "BEKKOUCHE LAKHDAR",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 725,
+        "code": "2108",
+        "name": "BEN AZZOUZ",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 738,
+        "code": "2121",
+        "name": "BENI OUELBANE",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 746,
+        "code": "2129",
+        "name": "BIN EL OUIDENE",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 748,
+        "code": "2131",
+        "name": "Cheraia",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 722,
+        "code": "2105",
+        "name": "DJENDEL SAADI MOHAMED",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 755,
+        "code": "2138",
+        "name": "EL MARSA",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 720,
+        "code": "2103",
+        "name": "EL-HADAIEK",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 750,
+        "code": "2133",
+        "name": "ELGHEDIR",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 737,
+        "code": "2120",
+        "name": "EMJEZ EDCHICH",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 726,
+        "code": "2109",
+        "name": "ESSEBT",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 747,
+        "code": "2130",
+        "name": "FIFILA",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 733,
+        "code": "2116",
+        "name": "HARROUCH",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 754,
+        "code": "2137",
+        "name": "Hammadi krouma",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 729,
+        "code": "2112",
+        "name": "KERKERA",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 749,
+        "code": "2132",
+        "name": "Kanoua",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 752,
+        "code": "2135",
+        "name": "OULDJA BOULBALOUT",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 730,
+        "code": "2113",
+        "name": "OULED ATTIA",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 735,
+        "code": "2118",
+        "name": "OULED HABEBA",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 745,
+        "code": "2128",
+        "name": "OUM TOUB",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 731,
+        "code": "2114",
+        "name": "Oued Zhor",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 740,
+        "code": "2123",
+        "name": "Ramdane Djamel",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 742,
+        "code": "2125",
+        "name": "SALAH BOUCHAOUR",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 736,
+        "code": "2119",
+        "name": "Sidi Mezghiche",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 743,
+        "code": "2126",
+        "name": "TAMALUOS",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 734,
+        "code": "2117",
+        "name": "ZERDEZAS",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 732,
+        "code": "2115",
+        "name": "Zitouna",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 741,
+        "code": "2124",
+        "name": "beni bechir",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 728,
+        "code": "2111",
+        "name": "benizid",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 751,
+        "code": "2134",
+        "name": "bouchetata",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 727,
+        "code": "2110",
+        "name": "collo",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 753,
+        "code": "2136",
+        "name": "khenak mayoune",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    },
+    {
+        "id": 718,
+        "code": "2101",
+        "name": "skikda",
+        "wilayaId": 21,
+        "wilayaName": "Skikda",
+        "isActive": true
+    }
+]

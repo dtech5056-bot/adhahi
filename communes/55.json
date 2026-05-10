@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1525,
+        "code": "5510",
+        "name": "BENACEUR",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1517,
+        "code": "5502",
+        "name": "BLIDET AMOR",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1528,
+        "code": "5513",
+        "name": "EL ALIA",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1522,
+        "code": "5507",
+        "name": "EL-HADJIRA",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1527,
+        "code": "5512",
+        "name": "MEGARINE",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1526,
+        "code": "5511",
+        "name": "MNAGUER",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1519,
+        "code": "5504",
+        "name": "NEZLA",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1521,
+        "code": "5506",
+        "name": "SIDI SLIMANE",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1523,
+        "code": "5508",
+        "name": "TAIBET",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1518,
+        "code": "5503",
+        "name": "TEBESBEST",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1524,
+        "code": "5509",
+        "name": "TEMACINE",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1516,
+        "code": "5501",
+        "name": "TOUGGOURT",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    },
+    {
+        "id": 1520,
+        "code": "5505",
+        "name": "ZAOUIA EL ABIDIA",
+        "wilayaId": 55,
+        "wilayaName": "Touggourt",
+        "isActive": true
+    }
+]

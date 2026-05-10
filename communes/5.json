@@ -1,0 +1,490 @@
+[
+    {
+        "id": 119,
+        "code": "0515",
+        "name": "ABDELKADER AZIL",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 123,
+        "code": "0519",
+        "name": "AIN DJASSER",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 149,
+        "code": "0545",
+        "name": "AIN TOUTA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 126,
+        "code": "0522",
+        "name": "AIN YAGOUT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 120,
+        "code": "0516",
+        "name": "ARRIS",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 146,
+        "code": "0542",
+        "name": "BARIKA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 105,
+        "code": "0501",
+        "name": "BATNA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 136,
+        "code": "0532",
+        "name": "BENI FEDHALA ELHAKANIA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 118,
+        "code": "0514",
+        "name": "BITAM",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 164,
+        "code": "0560",
+        "name": "BOULHILET",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 145,
+        "code": "0541",
+        "name": "BOUMAGUER",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 163,
+        "code": "0559",
+        "name": "BOUMIA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 139,
+        "code": "0535",
+        "name": "BOUZINA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 140,
+        "code": "0536",
+        "name": "CHEMORA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 156,
+        "code": "0552",
+        "name": "CHIR",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 117,
+        "code": "0513",
+        "name": "DJERMA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 147,
+        "code": "0543",
+        "name": "DJEZZAR",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 161,
+        "code": "0557",
+        "name": "EL HASSI",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 111,
+        "code": "0507",
+        "name": "EL MADHER",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 127,
+        "code": "0523",
+        "name": "FESDIS",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 135,
+        "code": "0531",
+        "name": "FOUM TOUB",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 106,
+        "code": "0502",
+        "name": "GHASSIRA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 143,
+        "code": "0539",
+        "name": "GOSBAT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 114,
+        "code": "0510",
+        "name": "GUIGBA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 150,
+        "code": "0546",
+        "name": "HIDOUSSA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 134,
+        "code": "0530",
+        "name": "ICHEMOUL",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 115,
+        "code": "0511",
+        "name": "INOUGHISSEN",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 121,
+        "code": "0517",
+        "name": "KIMEL",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 132,
+        "code": "0528",
+        "name": "KSAR BELEZMA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 165,
+        "code": "0561",
+        "name": "LARBAA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 162,
+        "code": "0558",
+        "name": "LAZROU",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 131,
+        "code": "0527",
+        "name": "LEMSANE",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 159,
+        "code": "0555",
+        "name": "M DOUKAL",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 107,
+        "code": "0503",
+        "name": "MAAFA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 110,
+        "code": "0506",
+        "name": "MENAA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 108,
+        "code": "0504",
+        "name": "MEROUANA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 113,
+        "code": "0509",
+        "name": "N GAOUS",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 141,
+        "code": "0537",
+        "name": "OUED CHAABA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 137,
+        "code": "0533",
+        "name": "OUED EL-MA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 152,
+        "code": "0548",
+        "name": "OUED TAGA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 160,
+        "code": "0556",
+        "name": "OULED AMMAR",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 144,
+        "code": "0540",
+        "name": "OULED AOUF",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 153,
+        "code": "0549",
+        "name": "OULED FADHEL",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 124,
+        "code": "0520",
+        "name": "OULED SELLAM",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 157,
+        "code": "0553",
+        "name": "OULED SI SLIMANE",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 116,
+        "code": "0512",
+        "name": "OUYOUN EL ASSAFIR",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 129,
+        "code": "0525",
+        "name": "RAHBAT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 155,
+        "code": "0551",
+        "name": "RAS EL AIOUN",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 128,
+        "code": "0524",
+        "name": "SEFIANE",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 133,
+        "code": "0529",
+        "name": "SEGGANA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 109,
+        "code": "0505",
+        "name": "SERIANA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 138,
+        "code": "0534",
+        "name": "TALKHEMPT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 142,
+        "code": "0538",
+        "name": "TAXLENT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 112,
+        "code": "0508",
+        "name": "TAZOULT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 151,
+        "code": "0547",
+        "name": "TENIET EL ABED",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 130,
+        "code": "0526",
+        "name": "TIGHANIMINE",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 125,
+        "code": "0521",
+        "name": "TIGHARGHAR",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 122,
+        "code": "0518",
+        "name": "TILATOU",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 154,
+        "code": "0550",
+        "name": "TIMGAD",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 148,
+        "code": "0544",
+        "name": "TKOUT",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    },
+    {
+        "id": 158,
+        "code": "0554",
+        "name": "ZANA EL BEIDA",
+        "wilayaId": 5,
+        "wilayaName": "Batna",
+        "isActive": true
+    }
+]

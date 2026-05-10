@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1539,
+        "code": "5801",
+        "name": "EL MENIAA",
+        "wilayaId": 58,
+        "wilayaName": "El Menia",
+        "isActive": true
+    },
+    {
+        "id": 1540,
+        "code": "5802",
+        "name": "HASSI EL FEHAL",
+        "wilayaId": 58,
+        "wilayaName": "El Menia",
+        "isActive": true
+    },
+    {
+        "id": 1541,
+        "code": "5803",
+        "name": "HASSI GARA",
+        "wilayaId": 58,
+        "wilayaName": "El Menia",
+        "isActive": true
+    }
+]

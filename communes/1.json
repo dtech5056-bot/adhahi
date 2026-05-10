@@ -1,0 +1,130 @@
+[
+    {
+        "id": 13,
+        "code": "0119",
+        "name": "AKABLI",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 15,
+        "code": "0122",
+        "name": "BOUDA",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 11,
+        "code": "0115",
+        "name": "FENOUGHIL",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "code": "0105",
+        "name": "Inzegmir",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 14,
+        "code": "0121",
+        "name": "OULED AHMED TIMI",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "code": "0104",
+        "name": "REGGANE",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 12,
+        "code": "0118",
+        "name": "Sali",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 10,
+        "code": "0114",
+        "name": "TAMENTIT",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "code": "0102",
+        "name": "TAMEST",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "code": "0106",
+        "name": "TIT",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 9,
+        "code": "0113",
+        "name": "Timekten",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "code": "0108",
+        "name": "Tsabit",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "code": "0111",
+        "name": "ZAOUIET KOUNTA",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "code": "0101",
+        "name": "adrar",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 8,
+        "code": "0112",
+        "name": "aoulef",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    },
+    {
+        "id": 16,
+        "code": "0126",
+        "name": "sbaa",
+        "wilayaId": 1,
+        "wilayaName": "Adrar",
+        "isActive": true
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1290,
+        "code": "4118",
+        "name": "AIN SOLTANE",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1281,
+        "code": "4109",
+        "name": "DREA",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1282,
+        "code": "4110",
+        "name": "HADDADA",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1283,
+        "code": "4111",
+        "name": "KHEDARA",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1287,
+        "code": "4115",
+        "name": "MDAOUROUCH",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1284,
+        "code": "4112",
+        "name": "MERAHNA",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1296,
+        "code": "4124",
+        "name": "OUED KEBERIT",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1291,
+        "code": "4119",
+        "name": "OUILLEN",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1277,
+        "code": "4105",
+        "name": "OULED DRISS",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1285,
+        "code": "4113",
+        "name": "OULED MOUMEN",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1288,
+        "code": "4116",
+        "name": "OUM LADHAIM",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1293,
+        "code": "4121",
+        "name": "SAF EL OUIDEN",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1274,
+        "code": "4102",
+        "name": "SEDRATA",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1273,
+        "code": "4101",
+        "name": "SOUK AHRAS",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1292,
+        "code": "4120",
+        "name": "Sidi fredj",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1280,
+        "code": "4108",
+        "name": "TAOURA",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1297,
+        "code": "4125",
+        "name": "TERRAGUELT",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1278,
+        "code": "4106",
+        "name": "TIFFECH",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1289,
+        "code": "4117",
+        "name": "ain zana",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1286,
+        "code": "4114",
+        "name": "bir bouhouch",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1275,
+        "code": "4103",
+        "name": "hanancha",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1295,
+        "code": "4123",
+        "name": "khemissa",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1276,
+        "code": "4104",
+        "name": "mechroha",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1294,
+        "code": "4122",
+        "name": "ragouba",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1279,
+        "code": "4107",
+        "name": "zarouria",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    },
+    {
+        "id": 1298,
+        "code": "4126",
+        "name": "zouabi",
+        "wilayaId": 41,
+        "wilayaName": "Souk Ahras",
+        "isActive": true
+    }
+]

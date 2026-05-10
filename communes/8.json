@@ -1,0 +1,90 @@
+[
+    {
+        "id": 254,
+        "code": "0817",
+        "name": "Abadla",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 245,
+        "code": "0801",
+        "name": "BECHAR",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 255,
+        "code": "0821",
+        "name": "Beni Ounif",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 246,
+        "code": "0802",
+        "name": "ERG FERRADJ",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 249,
+        "code": "0809",
+        "name": "MECHRAA H B",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 253,
+        "code": "0816",
+        "name": "MOUGHEL",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 252,
+        "code": "0815",
+        "name": "boukais",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 250,
+        "code": "0810",
+        "name": "kenadsa",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 248,
+        "code": "0806",
+        "name": "lahmar",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 247,
+        "code": "0804",
+        "name": "meridja",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    },
+    {
+        "id": 251,
+        "code": "0813",
+        "name": "taghit",
+        "wilayaId": 8,
+        "wilayaName": "Béchar",
+        "isActive": true
+    }
+]

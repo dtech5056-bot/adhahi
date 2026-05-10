@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1490,
+        "code": "4908",
+        "name": "AOUGROUT",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1484,
+        "code": "4902",
+        "name": "CHAROUINE",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1488,
+        "code": "4906",
+        "name": "DELDOUL",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1485,
+        "code": "4903",
+        "name": "KSAR KADDOUR",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1489,
+        "code": "4907",
+        "name": "METARFA",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1492,
+        "code": "4910",
+        "name": "OULED AISSA",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1486,
+        "code": "4904",
+        "name": "OULED SAID",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1491,
+        "code": "4909",
+        "name": "TALMINE",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1483,
+        "code": "4901",
+        "name": "TIMIMOUN",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    },
+    {
+        "id": 1487,
+        "code": "4905",
+        "name": "TINERKOUK",
+        "wilayaId": 49,
+        "wilayaName": "Timimoun",
+        "isActive": true
+    }
+]

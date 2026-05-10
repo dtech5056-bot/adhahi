@@ -1,0 +1,290 @@
+[
+    {
+        "id": 607,
+        "code": "1730",
+        "name": "AIN EL BELL",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 582,
+        "code": "1705",
+        "name": "AIN MAABED",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 611,
+        "code": "1734",
+        "name": "AMOURAH",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 600,
+        "code": "1723",
+        "name": "Ain Chouhada",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 612,
+        "code": "1735",
+        "name": "Ain Fekka",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 608,
+        "code": "1731",
+        "name": "Ain Oussera",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 609,
+        "code": "1732",
+        "name": "BENHAR",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 604,
+        "code": "1727",
+        "name": "BENYAGOUB",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 585,
+        "code": "1708",
+        "name": "BIRINE",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 586,
+        "code": "1709",
+        "name": "BOUIRETLAHDEB",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 603,
+        "code": "1726",
+        "name": "CHAREF",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 578,
+        "code": "1701",
+        "name": "DJELFA",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 602,
+        "code": "1725",
+        "name": "Dar Chioukh",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 606,
+        "code": "1729",
+        "name": "Deldoul",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 592,
+        "code": "1715",
+        "name": "Douis",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 588,
+        "code": "1711",
+        "name": "EL KHEMIS",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 591,
+        "code": "1714",
+        "name": "El Idrissia",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 584,
+        "code": "1707",
+        "name": "Feidh el Botma",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 598,
+        "code": "1721",
+        "name": "GUERNINI",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 595,
+        "code": "1718",
+        "name": "Guettara",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 597,
+        "code": "1720",
+        "name": "HAD SAHARY",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 581,
+        "code": "1704",
+        "name": "Hassi Bahbah",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 593,
+        "code": "1716",
+        "name": "Hassi El Euch",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 610,
+        "code": "1733",
+        "name": "Hassi Fdoul",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 590,
+        "code": "1713",
+        "name": "M LILIHA",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 579,
+        "code": "1702",
+        "name": "MOUDJBARA",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 601,
+        "code": "1724",
+        "name": "Oum Laadham",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 599,
+        "code": "1722",
+        "name": "SELMANA",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 589,
+        "code": "1712",
+        "name": "SIDI BAIZID",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 596,
+        "code": "1719",
+        "name": "SIDI LADJEL",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 613,
+        "code": "1736",
+        "name": "TAADMIT",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 587,
+        "code": "1710",
+        "name": "ZACCAR",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 605,
+        "code": "1728",
+        "name": "Zaafrane",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 580,
+        "code": "1703",
+        "name": "el guedid",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 594,
+        "code": "1717",
+        "name": "messaad",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    },
+    {
+        "id": 583,
+        "code": "1706",
+        "name": "sed Rahal",
+        "wilayaId": 17,
+        "wilayaName": "Djelfa",
+        "isActive": true
+    }
+]

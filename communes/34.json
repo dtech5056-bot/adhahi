@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1123,
+        "code": "3408",
+        "name": "AIN TAGHROUT",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1145,
+        "code": "3430",
+        "name": "AIN TESSARA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1116,
+        "code": "3401",
+        "name": "B,B,Arrérid",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1127,
+        "code": "3412",
+        "name": "BELIMOUR",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1121,
+        "code": "3406",
+        "name": "BENDAOUD",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1146,
+        "code": "3431",
+        "name": "BIR KASD ALI",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1124,
+        "code": "3409",
+        "name": "BORDJ GHEDIR",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1118,
+        "code": "3403",
+        "name": "BORDJ ZEMOURA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1140,
+        "code": "3425",
+        "name": "COLLA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1130,
+        "code": "3415",
+        "name": "DJAAFRA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1122,
+        "code": "3407",
+        "name": "EL ACHIR",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1143,
+        "code": "3428",
+        "name": "EL ANASSER",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1142,
+        "code": "3427",
+        "name": "EL EUCH",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1126,
+        "code": "3411",
+        "name": "EL HAMMADIA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1131,
+        "code": "3416",
+        "name": "EL MAIN",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1120,
+        "code": "3405",
+        "name": "EL MEHIR",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1147,
+        "code": "3432",
+        "name": "GHAILASSA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1149,
+        "code": "3434",
+        "name": "HARRAZA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1134,
+        "code": "3419",
+        "name": "HASNAOUA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1135,
+        "code": "3420",
+        "name": "KHELIL",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1137,
+        "code": "3422",
+        "name": "KSOUR",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1119,
+        "code": "3404",
+        "name": "MANSOURA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1128,
+        "code": "3413",
+        "name": "MEDJANA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1132,
+        "code": "3417",
+        "name": "OULED BRAHAM",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1133,
+        "code": "3418",
+        "name": "OULED DAHMANE",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1138,
+        "code": "3423",
+        "name": "OULED SIDI BRAHIM",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1148,
+        "code": "3433",
+        "name": "RABTA",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1117,
+        "code": "3402",
+        "name": "RAS EL OUED",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1125,
+        "code": "3410",
+        "name": "SIDI-EMBAREK",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1136,
+        "code": "3421",
+        "name": "TAGLAIT",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1144,
+        "code": "3429",
+        "name": "TASSAMEURT",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1139,
+        "code": "3424",
+        "name": "TEFFREG",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1129,
+        "code": "3414",
+        "name": "TENIET ENASR",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    },
+    {
+        "id": 1141,
+        "code": "3426",
+        "name": "TIXTER",
+        "wilayaId": 34,
+        "wilayaName": "Bordj Bou Arréridj",
+        "isActive": true
+    }
+]

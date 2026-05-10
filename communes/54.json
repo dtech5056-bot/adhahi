@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1514,
+        "code": "5401",
+        "name": "IN GUEZZAM",
+        "wilayaId": 54,
+        "wilayaName": "In Guezzam",
+        "isActive": true
+    },
+    {
+        "id": 1515,
+        "code": "5402",
+        "name": "TIN ZOUATINE",
+        "wilayaId": 54,
+        "wilayaName": "In Guezzam",
+        "isActive": true
+    }
+]

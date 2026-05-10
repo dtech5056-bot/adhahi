@@ -1,0 +1,458 @@
+[
+    {
+        "id": 561,
+        "code": "1641",
+        "name": "AIN TAYA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 521,
+        "code": "1601",
+        "name": "ALGER CENTRE",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 577,
+        "code": "1657",
+        "name": "Ain Benian",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 539,
+        "code": "1619",
+        "name": "BACHDJARAH",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 534,
+        "code": "1614",
+        "name": "BARAKI",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 556,
+        "code": "1636",
+        "name": "BIRTOUTA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 550,
+        "code": "1630",
+        "name": "BORDJ EL KIFFAN",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 536,
+        "code": "1616",
+        "name": "BOUROUBA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 525,
+        "code": "1605",
+        "name": "Bab El Oued",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 567,
+        "code": "1647",
+        "name": "Baba Hassen",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 524,
+        "code": "1604",
+        "name": "Belouizdad",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 542,
+        "code": "1622",
+        "name": "Ben Aknoun",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 552,
+        "code": "1632",
+        "name": "Beni messous",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 529,
+        "code": "1609",
+        "name": "Bir Mourad Rais",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 532,
+        "code": "1612",
+        "name": "Birkhadem",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 526,
+        "code": "1606",
+        "name": "Bologhine",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 572,
+        "code": "1652",
+        "name": "Cheraga",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 568,
+        "code": "1648",
+        "name": "DOUERA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 540,
+        "code": "1620",
+        "name": "Dar El Beida",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 569,
+        "code": "1649",
+        "name": "Draria",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 574,
+        "code": "1654",
+        "name": "EL ACHOUR",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 533,
+        "code": "1613",
+        "name": "EL HARRACH",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 551,
+        "code": "1631",
+        "name": "ELMAGHARIA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 563,
+        "code": "1643",
+        "name": "El Marsa",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 523,
+        "code": "1603",
+        "name": "El-Madania",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 547,
+        "code": "1627",
+        "name": "El-Mouradia",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 553,
+        "code": "1633",
+        "name": "Eucalyptus",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 544,
+        "code": "1624",
+        "name": "HAMMAMET",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 537,
+        "code": "1617",
+        "name": "HUSSEIN DEY",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 559,
+        "code": "1639",
+        "name": "Heraoua",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 548,
+        "code": "1628",
+        "name": "Hydra",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 538,
+        "code": "1618",
+        "name": "KOUBA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 576,
+        "code": "1656",
+        "name": "Khraicia",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 566,
+        "code": "1646",
+        "name": "Mahelma",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 549,
+        "code": "1629",
+        "name": "Mohammadia",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 555,
+        "code": "1635",
+        "name": "OULED CHBEL",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 571,
+        "code": "1651",
+        "name": "Ouled-Fayet",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 560,
+        "code": "1640",
+        "name": "REGHAIA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 558,
+        "code": "1638",
+        "name": "ROUIBA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 522,
+        "code": "1602",
+        "name": "SIDI M HAMED",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 557,
+        "code": "1637",
+        "name": "SIDI MOUSSA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 565,
+        "code": "1645",
+        "name": "Saoula",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 575,
+        "code": "1655",
+        "name": "Souidania",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 554,
+        "code": "1634",
+        "name": "Tessala El-Merdja",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 564,
+        "code": "1644",
+        "name": "ZERALDA",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 541,
+        "code": "1621",
+        "name": "bab ezzouar",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 562,
+        "code": "1642",
+        "name": "bordj el bahri",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 531,
+        "code": "1611",
+        "name": "bouzareah",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 527,
+        "code": "1607",
+        "name": "casbah",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 543,
+        "code": "1623",
+        "name": "dely-ibrahim",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 530,
+        "code": "1610",
+        "name": "el biar",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 546,
+        "code": "1626",
+        "name": "gue de constantine",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 528,
+        "code": "1608",
+        "name": "oued koriche",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 535,
+        "code": "1615",
+        "name": "oued smar",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 570,
+        "code": "1650",
+        "name": "rahmania",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 545,
+        "code": "1625",
+        "name": "rais hamidou",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    },
+    {
+        "id": 573,
+        "code": "1653",
+        "name": "staoueli",
+        "wilayaId": 16,
+        "wilayaName": "Alger",
+        "isActive": true
+    }
+]

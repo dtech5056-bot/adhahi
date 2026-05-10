@@ -1,0 +1,226 @@
+[
+    {
+        "id": 353,
+        "code": "1223",
+        "name": "AIN ZERGA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 356,
+        "code": "1226",
+        "name": "BEDJEN",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 347,
+        "code": "1217",
+        "name": "BEKKARIA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 344,
+        "code": "1214",
+        "name": "BIR DHEB",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 332,
+        "code": "1202",
+        "name": "BIR EL-ATER",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 340,
+        "code": "1210",
+        "name": "BIR MOKKADEM",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 348,
+        "code": "1218",
+        "name": "BOUKHADRA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 355,
+        "code": "1225",
+        "name": "BOULHAF DYR",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 333,
+        "code": "1203",
+        "name": "CHERIA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 335,
+        "code": "1205",
+        "name": "EL AOUINET",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 338,
+        "code": "1208",
+        "name": "EL HAMMAMET",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 336,
+        "code": "1206",
+        "name": "EL HOUIDJBET",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 341,
+        "code": "1211",
+        "name": "EL KOUIF",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 357,
+        "code": "1227",
+        "name": "EL MAZRAA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 354,
+        "code": "1224",
+        "name": "EL MERIDJ",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 343,
+        "code": "1213",
+        "name": "EL OGLA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 345,
+        "code": "1215",
+        "name": "EL OGLA EL MALHA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 350,
+        "code": "1220",
+        "name": "EL-MA-LABIOD",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 358,
+        "code": "1228",
+        "name": "FERKANE",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 346,
+        "code": "1216",
+        "name": "GOURIGUEUR",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 342,
+        "code": "1212",
+        "name": "MORSOTT",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 339,
+        "code": "1209",
+        "name": "NEGRINE",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 349,
+        "code": "1219",
+        "name": "OUENZA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 351,
+        "code": "1221",
+        "name": "OUM ALI",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 337,
+        "code": "1207",
+        "name": "SAFSSAF EL OUESSRA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 334,
+        "code": "1204",
+        "name": "STAH GUENTIS",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 331,
+        "code": "1201",
+        "name": "TEBESSA",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    },
+    {
+        "id": 352,
+        "code": "1222",
+        "name": "thlidjen",
+        "wilayaId": 12,
+        "wilayaName": "Tébessa",
+        "isActive": true
+    }
+]

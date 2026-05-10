@@ -1,0 +1,130 @@
+[
+    {
+        "id": 704,
+        "code": "2003",
+        "name": "Ain El Hadjar",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 714,
+        "code": "2013",
+        "name": "Ain Skhouna",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 717,
+        "code": "2016",
+        "name": "Ain Soltane",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 703,
+        "code": "2002",
+        "name": "Doui Thabet",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 711,
+        "code": "2010",
+        "name": "Hassasna",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 708,
+        "code": "2007",
+        "name": "Hounet",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 712,
+        "code": "2011",
+        "name": "Maamora",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 706,
+        "code": "2005",
+        "name": "Moulay Larbi",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 715,
+        "code": "2014",
+        "name": "OULED BRAHIM",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 705,
+        "code": "2004",
+        "name": "OULED KHALED",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 702,
+        "code": "2001",
+        "name": "Saida",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 713,
+        "code": "2012",
+        "name": "Sidi Ahmed",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 709,
+        "code": "2008",
+        "name": "Sidi Amar",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 710,
+        "code": "2009",
+        "name": "Sidi Boubkeur",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 716,
+        "code": "2015",
+        "name": "Tircine",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    },
+    {
+        "id": 707,
+        "code": "2006",
+        "name": "Youb",
+        "wilayaId": 20,
+        "wilayaName": "Saïda",
+        "isActive": true
+    }
+]

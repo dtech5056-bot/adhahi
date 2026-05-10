@@ -1,0 +1,378 @@
+[
+    {
+        "id": 978,
+        "code": "2817",
+        "name": "AIN EL HADJEL",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1002,
+        "code": "2841",
+        "name": "AIN EL MELEH",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 998,
+        "code": "2837",
+        "name": "AIN FARES",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 974,
+        "code": "2813",
+        "name": "AIN KHADRA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1005,
+        "code": "2844",
+        "name": "AIN RICH",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 976,
+        "code": "2815",
+        "name": "BELAIBA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 985,
+        "code": "2824",
+        "name": "BEN SROUR",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 996,
+        "code": "2835",
+        "name": "BEN ZOUH",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1006,
+        "code": "2845",
+        "name": "BENI ILMANE",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 973,
+        "code": "2812",
+        "name": "BERHOUM",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 997,
+        "code": "2836",
+        "name": "BIR FODDA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 981,
+        "code": "2820",
+        "name": "BOUSAADA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 992,
+        "code": "2831",
+        "name": "BOUTI SAYEH",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 970,
+        "code": "2809",
+        "name": "CHELLAL",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 991,
+        "code": "2830",
+        "name": "DEHAHNA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1008,
+        "code": "2847",
+        "name": "DJEBEL MESSAAD",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 988,
+        "code": "2827",
+        "name": "EL HAMEL",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 987,
+        "code": "2826",
+        "name": "ELHOUAMED",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 964,
+        "code": "2803",
+        "name": "HAMMAM DALAA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 993,
+        "code": "2832",
+        "name": "KHETTOUTI CED ELDJIR",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 968,
+        "code": "2807",
+        "name": "KHOUBANA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 963,
+        "code": "2802",
+        "name": "MAADID",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 990,
+        "code": "2829",
+        "name": "MAARIF",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 972,
+        "code": "2811",
+        "name": "MAGRA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 969,
+        "code": "2808",
+        "name": "MCIF",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 995,
+        "code": "2834",
+        "name": "MED BOUDIAF",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1003,
+        "code": "2842",
+        "name": "MEDJEDEL",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1000,
+        "code": "2839",
+        "name": "MENAA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 962,
+        "code": "2801",
+        "name": "MSILA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 967,
+        "code": "2806",
+        "name": "Mtarfa",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 980,
+        "code": "2819",
+        "name": "OUANOUGHA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 975,
+        "code": "2814",
+        "name": "OULED ADDI GUEBALA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 965,
+        "code": "2804",
+        "name": "OULED DERRADJ",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 971,
+        "code": "2810",
+        "name": "OULED MADHI",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 982,
+        "code": "2821",
+        "name": "OULED SIDI BRAHIM",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 986,
+        "code": "2825",
+        "name": "OULED SLIMANE",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1007,
+        "code": "2846",
+        "name": "OULTEME",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 989,
+        "code": "2828",
+        "name": "Ouled mansour",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 977,
+        "code": "2816",
+        "name": "SIDI AISSA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 979,
+        "code": "2818",
+        "name": "SIDI HADJERES",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 999,
+        "code": "2838",
+        "name": "SIDI MHAMED",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1004,
+        "code": "2843",
+        "name": "SLIM",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 1001,
+        "code": "2840",
+        "name": "SOUAMAA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 983,
+        "code": "2822",
+        "name": "Sidi Ameur",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 966,
+        "code": "2805",
+        "name": "TARMOUNT",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 984,
+        "code": "2823",
+        "name": "TEMSA",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    },
+    {
+        "id": 994,
+        "code": "2833",
+        "name": "Zarzour",
+        "wilayaId": 28,
+        "wilayaName": "M'Sila",
+        "isActive": true
+    }
+]

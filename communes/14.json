@@ -1,0 +1,338 @@
+[
+    {
+        "id": 416,
+        "code": "1405",
+        "name": "AIN DZARIT",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 429,
+        "code": "1418",
+        "name": "AIN EL HADID",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 439,
+        "code": "1428",
+        "name": "AIN KERMES",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 417,
+        "code": "1406",
+        "name": "Ain Deheb",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 414,
+        "code": "1403",
+        "name": "Ain bouchekif",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 447,
+        "code": "1436",
+        "name": "CHEHAIMA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 424,
+        "code": "1413",
+        "name": "DAHMOUNI",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 435,
+        "code": "1424",
+        "name": "DJILALI BEN AMAR",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 438,
+        "code": "1427",
+        "name": "FRENDA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 452,
+        "code": "1441",
+        "name": "Faidja",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 433,
+        "code": "1422",
+        "name": "Guertoufa",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 446,
+        "code": "1435",
+        "name": "Hamadia",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 440,
+        "code": "1429",
+        "name": "Ksar Chellala",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 421,
+        "code": "1410",
+        "name": "MADNA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 426,
+        "code": "1415",
+        "name": "MAHDIA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 445,
+        "code": "1434",
+        "name": "MECHRAA-SAFA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 419,
+        "code": "1408",
+        "name": "MEDRISSA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 413,
+        "code": "1402",
+        "name": "MEDROUSSA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 432,
+        "code": "1421",
+        "name": "MEGHILA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 423,
+        "code": "1412",
+        "name": "MELLAKOU",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 442,
+        "code": "1431",
+        "name": "NADORAH",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 431,
+        "code": "1420",
+        "name": "Naima",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 444,
+        "code": "1433",
+        "name": "OUED LILI",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 425,
+        "code": "1414",
+        "name": "RAHOUIA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 441,
+        "code": "1430",
+        "name": "Rechaiga",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 430,
+        "code": "1419",
+        "name": "Rosfa",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 422,
+        "code": "1411",
+        "name": "SEBT",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 449,
+        "code": "1438",
+        "name": "SIDI ABDERRAHMANE",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 436,
+        "code": "1425",
+        "name": "Sebaine",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 428,
+        "code": "1417",
+        "name": "Si Abdelghani",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 434,
+        "code": "1423",
+        "name": "Sidi Hosni",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 427,
+        "code": "1416",
+        "name": "Sougueur",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 443,
+        "code": "1432",
+        "name": "TAGDEMPT",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 448,
+        "code": "1437",
+        "name": "TAKHEMARET",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 437,
+        "code": "1426",
+        "name": "TOUSNINA",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 412,
+        "code": "1401",
+        "name": "Tiaret",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 453,
+        "code": "1442",
+        "name": "Tidda",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 420,
+        "code": "1409",
+        "name": "Zmelet El Amir Abdelkader",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 451,
+        "code": "1440",
+        "name": "bougara",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 450,
+        "code": "1439",
+        "name": "serguine",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 415,
+        "code": "1404",
+        "name": "sidi ali mellal",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    },
+    {
+        "id": 418,
+        "code": "1407",
+        "name": "sidi bakhti",
+        "wilayaId": 14,
+        "wilayaName": "Tiaret",
+        "isActive": true
+    }
+]

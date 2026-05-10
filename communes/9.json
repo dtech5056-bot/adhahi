@@ -1,0 +1,202 @@
+[
+    {
+        "id": 279,
+        "code": "0924",
+        "name": "AIN ROMANA",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 276,
+        "code": "0921",
+        "name": "BENI MERED",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 274,
+        "code": "0919",
+        "name": "BENI TAMOU",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 265,
+        "code": "0910",
+        "name": "BENKHELIL",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 271,
+        "code": "0916",
+        "name": "BOUFARIK",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 277,
+        "code": "0922",
+        "name": "BOUGARA",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 258,
+        "code": "0903",
+        "name": "BOUINAN",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 256,
+        "code": "0901",
+        "name": "Blida",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 275,
+        "code": "0920",
+        "name": "Bouarfa",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 257,
+        "code": "0902",
+        "name": "Chebli",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 263,
+        "code": "0908",
+        "name": "Chiffa",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 261,
+        "code": "0906",
+        "name": "Chrea",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 280,
+        "code": "0925",
+        "name": "Djebabra",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 262,
+        "code": "0907",
+        "name": "El Affroun",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 278,
+        "code": "0923",
+        "name": "GUERROUAOU",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 264,
+        "code": "0909",
+        "name": "Hammem Melouane",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 272,
+        "code": "0917",
+        "name": "Larbaa",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 269,
+        "code": "0914",
+        "name": "MEFTAH",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 267,
+        "code": "0912",
+        "name": "MOUZAIA",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 270,
+        "code": "0915",
+        "name": "OULED SLAMA",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 260,
+        "code": "0905",
+        "name": "OULED YAICH",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 273,
+        "code": "0918",
+        "name": "Oued Djer",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 259,
+        "code": "0904",
+        "name": "Oued El Alleug",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 268,
+        "code": "0913",
+        "name": "Sohane",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    },
+    {
+        "id": 266,
+        "code": "0911",
+        "name": "Soumaa",
+        "wilayaId": 9,
+        "wilayaName": "Blida",
+        "isActive": true
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1089,
+        "code": "3126",
+        "name": "AIN EL BIA",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1069,
+        "code": "3106",
+        "name": "ARZEW",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1083,
+        "code": "3120",
+        "name": "BEN FREHA",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1070,
+        "code": "3107",
+        "name": "BETHIOUA",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1077,
+        "code": "3114",
+        "name": "BOUFATIS",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1081,
+        "code": "3118",
+        "name": "EL BRAYA",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1068,
+        "code": "3105",
+        "name": "ES SENIA",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1065,
+        "code": "3102",
+        "name": "GDYEL",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1084,
+        "code": "3121",
+        "name": "HASSI MEFSOUKH",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1071,
+        "code": "3108",
+        "name": "MERS EL HADJADJ",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1074,
+        "code": "3111",
+        "name": "OUEDTLELAT",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1085,
+        "code": "3122",
+        "name": "SIDI BENYEBKA",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1075,
+        "code": "3112",
+        "name": "TAFRAOUI",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1088,
+        "code": "3125",
+        "name": "ain el kerma",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1072,
+        "code": "3109",
+        "name": "ain el turck",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1066,
+        "code": "3103",
+        "name": "bir el djir",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1079,
+        "code": "3116",
+        "name": "bousfer",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1087,
+        "code": "3124",
+        "name": "boutlelis",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1073,
+        "code": "3110",
+        "name": "el ancor",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1080,
+        "code": "3117",
+        "name": "el kerma",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1082,
+        "code": "3119",
+        "name": "hassi ben okba",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1067,
+        "code": "3104",
+        "name": "hassi bounif",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1078,
+        "code": "3115",
+        "name": "mers el kebir",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1086,
+        "code": "3123",
+        "name": "misserghin",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1064,
+        "code": "3101",
+        "name": "oran",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    },
+    {
+        "id": 1076,
+        "code": "3113",
+        "name": "sidi chami",
+        "wilayaId": 31,
+        "wilayaName": "Oran",
+        "isActive": true
+    }
+]

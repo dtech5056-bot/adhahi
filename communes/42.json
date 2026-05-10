@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1305,
+        "code": "4207",
+        "name": "Aghbal",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1318,
+        "code": "4220",
+        "name": "BOUHAROUN",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1303,
+        "code": "4205",
+        "name": "BOURKIKA",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1325,
+        "code": "4227",
+        "name": "Beni Mileuk",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1316,
+        "code": "4218",
+        "name": "Bouismail",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1310,
+        "code": "4212",
+        "name": "Chaiba",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1313,
+        "code": "4215",
+        "name": "Damous",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1308,
+        "code": "4210",
+        "name": "Gouraya",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1306,
+        "code": "4208",
+        "name": "Hadjout",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1304,
+        "code": "4206",
+        "name": "Khemisti",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1301,
+        "code": "4203",
+        "name": "Larhat",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1314,
+        "code": "4216",
+        "name": "Merad",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1320,
+        "code": "4222",
+        "name": "Messelmoun",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1309,
+        "code": "4211",
+        "name": "Nador",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1307,
+        "code": "4209",
+        "name": "SIDI -AMAR",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1321,
+        "code": "4223",
+        "name": "Sidi Rached",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1324,
+        "code": "4226",
+        "name": "Sidi Semiane",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1299,
+        "code": "4201",
+        "name": "Tipasa",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1317,
+        "code": "4219",
+        "name": "ahmer el ain",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1311,
+        "code": "4213",
+        "name": "ain tagourait",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1323,
+        "code": "4225",
+        "name": "attatba",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1312,
+        "code": "4214",
+        "name": "cherchell",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1302,
+        "code": "4204",
+        "name": "douaouda",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1315,
+        "code": "4217",
+        "name": "fouka",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1326,
+        "code": "4228",
+        "name": "hadjret ennous",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1322,
+        "code": "4224",
+        "name": "kolea",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1300,
+        "code": "4202",
+        "name": "minaceur",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    },
+    {
+        "id": 1319,
+        "code": "4221",
+        "name": "sidi ghiles",
+        "wilayaId": 42,
+        "wilayaName": "Tipaza",
+        "isActive": true
+    }
+]

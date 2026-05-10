@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1443,
+        "code": "4710",
+        "name": "BOUNOURA",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1437,
+        "code": "4704",
+        "name": "Berriane",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1436,
+        "code": "4703",
+        "name": "DAYA BEN DHAOUA",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1440,
+        "code": "4707",
+        "name": "EL-ATTEUF",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1435,
+        "code": "4701",
+        "name": "GHARDAIA",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1439,
+        "code": "4706",
+        "name": "Guerrara",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1444,
+        "code": "4713",
+        "name": "MANSOURA",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1438,
+        "code": "4705",
+        "name": "METLILI",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1442,
+        "code": "4709",
+        "name": "SEBSEB",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    },
+    {
+        "id": 1441,
+        "code": "4708",
+        "name": "ZELFANA",
+        "wilayaId": 47,
+        "wilayaName": "Ghardaïa",
+        "isActive": true
+    }
+]

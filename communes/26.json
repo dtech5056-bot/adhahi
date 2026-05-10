@@ -1,0 +1,514 @@
+[
+    {
+        "id": 906,
+        "code": "2641",
+        "name": "AIN OUKSIR",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 869,
+        "code": "2604",
+        "name": "Ain Boucif",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 870,
+        "code": "2605",
+        "name": "Aissaouia",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 897,
+        "code": "2632",
+        "name": "Aziz",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 889,
+        "code": "2624",
+        "name": "BAATA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 895,
+        "code": "2630",
+        "name": "BENCHICAO",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 911,
+        "code": "2646",
+        "name": "BENI SLIMANE",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 912,
+        "code": "2647",
+        "name": "BERROUAGHIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 921,
+        "code": "2656",
+        "name": "BIR BEN ABED",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 875,
+        "code": "2610",
+        "name": "BOUAICHE",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 886,
+        "code": "2621",
+        "name": "BOUCHRAHIL",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 884,
+        "code": "2619",
+        "name": "BOUSKENE",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 924,
+        "code": "2659",
+        "name": "Bouaichoune",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 903,
+        "code": "2638",
+        "name": "CHAHBOUNIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 873,
+        "code": "2608",
+        "name": "DERRAG",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 902,
+        "code": "2637",
+        "name": "DJOUAB",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 919,
+        "code": "2654",
+        "name": "DRAA SMAR",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 918,
+        "code": "2653",
+        "name": "Deux bassins",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 922,
+        "code": "2657",
+        "name": "EL AOUINET",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 881,
+        "code": "2616",
+        "name": "EL HAMDANIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 872,
+        "code": "2607",
+        "name": "EL OMARIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 901,
+        "code": "2636",
+        "name": "ELAZIZIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 874,
+        "code": "2609",
+        "name": "ELGUELB ELKEBIR",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 925,
+        "code": "2660",
+        "name": "Hannacha",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 882,
+        "code": "2617",
+        "name": "KEF LAKHDAR",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 928,
+        "code": "2663",
+        "name": "KHAMS DJOUAMAA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 904,
+        "code": "2639",
+        "name": "MAGHRAOUA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 866,
+        "code": "2601",
+        "name": "MEDEA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 915,
+        "code": "2650",
+        "name": "MIHOUB",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 923,
+        "code": "2658",
+        "name": "OULED ANTAR",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 871,
+        "code": "2606",
+        "name": "OULED DEID",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 887,
+        "code": "2622",
+        "name": "OULED HELLAL",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 868,
+        "code": "2603",
+        "name": "OULED MAAREF",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 907,
+        "code": "2642",
+        "name": "OUM EL DJELLIL",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 908,
+        "code": "2643",
+        "name": "Ouamri",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 885,
+        "code": "2620",
+        "name": "REBAIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 929,
+        "code": "2664",
+        "name": "SANEG",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 926,
+        "code": "2661",
+        "name": "SEDRAIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 913,
+        "code": "2648",
+        "name": "SEGHOUANE",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 891,
+        "code": "2626",
+        "name": "SIDI NAAMANE",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 893,
+        "code": "2628",
+        "name": "SIDI ZAHAR",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 898,
+        "code": "2633",
+        "name": "SOUAGUI",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 888,
+        "code": "2623",
+        "name": "TAFRAOUAT",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 910,
+        "code": "2645",
+        "name": "TLETAT ED DOUIRS",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 917,
+        "code": "2652",
+        "name": "Tablat",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 899,
+        "code": "2634",
+        "name": "ZOUBIRIA",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 890,
+        "code": "2625",
+        "name": "boghar",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 916,
+        "code": "2651",
+        "name": "boughzoul",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 883,
+        "code": "2618",
+        "name": "chellalet eladhaoura",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 905,
+        "code": "2640",
+        "name": "cheniguel",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 900,
+        "code": "2635",
+        "name": "ksar el boukhari",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 876,
+        "code": "2611",
+        "name": "mezghena",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 914,
+        "code": "2649",
+        "name": "mfatha",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 927,
+        "code": "2662",
+        "name": "moudjebeur",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 894,
+        "code": "2629",
+        "name": "oued harbil",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 892,
+        "code": "2627",
+        "name": "ouled bouachra",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 877,
+        "code": "2612",
+        "name": "ouled brahim",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 867,
+        "code": "2602",
+        "name": "ouzera",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 920,
+        "code": "2655",
+        "name": "sedi arbbie",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 909,
+        "code": "2644",
+        "name": "si mahdjoub",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 896,
+        "code": "2631",
+        "name": "sidi demed",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 879,
+        "code": "2614",
+        "name": "sidi ziane",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 880,
+        "code": "2615",
+        "name": "tamezguida",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    },
+    {
+        "id": 878,
+        "code": "2613",
+        "name": "tizi mahdi",
+        "wilayaId": 26,
+        "wilayaName": "Médéa",
+        "isActive": true
+    }
+]

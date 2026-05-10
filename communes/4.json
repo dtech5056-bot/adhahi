@@ -1,0 +1,234 @@
+[
+    {
+        "id": 77,
+        "code": "0402",
+        "name": "AIN BEIDA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 90,
+        "code": "0415",
+        "name": "AIN DISS",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 100,
+        "code": "0425",
+        "name": "AIN FAKROUN",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 87,
+        "code": "0412",
+        "name": "AIN KERCHA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 102,
+        "code": "0427",
+        "name": "AIN ZITOUN",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 78,
+        "code": "0403",
+        "name": "Ain Mlila",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 84,
+        "code": "0409",
+        "name": "BERRICHE",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 86,
+        "code": "0411",
+        "name": "DHALAA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 80,
+        "code": "0405",
+        "name": "EL AMIRIA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 82,
+        "code": "0407",
+        "name": "EL BELALA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 91,
+        "code": "0416",
+        "name": "FKIRINA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 88,
+        "code": "0413",
+        "name": "HANCHIR TOUMGHANI",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 97,
+        "code": "0422",
+        "name": "KSAR SBAHI",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 99,
+        "code": "0424",
+        "name": "MESKIANA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 95,
+        "code": "0420",
+        "name": "OULED ZOUAI",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 76,
+        "code": "0401",
+        "name": "OUM EL BOUAGHI",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 85,
+        "code": "0410",
+        "name": "Ouled hamla",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 101,
+        "code": "0426",
+        "name": "RAHIA",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 81,
+        "code": "0406",
+        "name": "SIGUS",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 92,
+        "code": "0417",
+        "name": "Souk Nâamane",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 93,
+        "code": "0418",
+        "name": "ZORG",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 83,
+        "code": "0408",
+        "name": "ain babouche",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 79,
+        "code": "0404",
+        "name": "behir chergui",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 96,
+        "code": "0421",
+        "name": "bir chouhada",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 94,
+        "code": "0419",
+        "name": "boughrara saoudi",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 89,
+        "code": "0414",
+        "name": "djazia",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 104,
+        "code": "0429",
+        "name": "harmelia",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 98,
+        "code": "0423",
+        "name": "oued nini",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    },
+    {
+        "id": 103,
+        "code": "0428",
+        "name": "ouled gacem",
+        "wilayaId": 4,
+        "wilayaName": "Oum El Bouaghi",
+        "isActive": true
+    }
+]

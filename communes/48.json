@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1468,
+        "code": "4824",
+        "name": "Ain Rahma",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1463,
+        "code": "4819",
+        "name": "AinTarek",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1455,
+        "code": "4811",
+        "name": "Ammi Moussa",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1476,
+        "code": "4832",
+        "name": "Dar Ben Abdellah",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1459,
+        "code": "4815",
+        "name": "EL GUETTAR",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1451,
+        "code": "4807",
+        "name": "EL HMADNA",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1481,
+        "code": "4837",
+        "name": "El Merdja Sidi Abed",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1477,
+        "code": "4833",
+        "name": "El hassi",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1461,
+        "code": "4817",
+        "name": "El-Matmar",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1460,
+        "code": "4816",
+        "name": "Hamri",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1466,
+        "code": "4822",
+        "name": "MAZOUNA",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1472,
+        "code": "4828",
+        "name": "Mendes",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1465,
+        "code": "4821",
+        "name": "Ouarizane",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1464,
+        "code": "4820",
+        "name": "Oued Essalem",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1446,
+        "code": "4802",
+        "name": "Oued Rhiou",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1482,
+        "code": "4838",
+        "name": "Ouled Sidi Mihoub",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1449,
+        "code": "4805",
+        "name": "Ouled Yaich",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1471,
+        "code": "4827",
+        "name": "Ramka",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1450,
+        "code": "4806",
+        "name": "Sidi Lazreg",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1462,
+        "code": "4818",
+        "name": "Sidi M'hamed Benaouda",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1452,
+        "code": "4808",
+        "name": "Sidi Mhamed Benali",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1475,
+        "code": "4831",
+        "name": "Souk Elhad",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1456,
+        "code": "4812",
+        "name": "Zemmora",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1447,
+        "code": "4803",
+        "name": "belaacel bouzagza",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1479,
+        "code": "4835",
+        "name": "bendaoud",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1457,
+        "code": "4813",
+        "name": "beni dergoune",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1474,
+        "code": "4830",
+        "name": "beni zentis",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1458,
+        "code": "4814",
+        "name": "djdiouia",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1480,
+        "code": "4836",
+        "name": "el oueldja",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1478,
+        "code": "4834",
+        "name": "had echekkala",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1467,
+        "code": "4823",
+        "name": "kalaa",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1473,
+        "code": "4829",
+        "name": "lahlef",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1453,
+        "code": "4809",
+        "name": "mediouna",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1470,
+        "code": "4826",
+        "name": "oued djemaa",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1445,
+        "code": "4801",
+        "name": "relizane",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1454,
+        "code": "4810",
+        "name": "sidi khettab",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1448,
+        "code": "4804",
+        "name": "sidi saada",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    },
+    {
+        "id": 1469,
+        "code": "4825",
+        "name": "yellel",
+        "wilayaId": 48,
+        "wilayaName": "Relizane",
+        "isActive": true
+    }
+]

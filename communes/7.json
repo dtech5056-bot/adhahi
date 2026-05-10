@@ -1,0 +1,218 @@
+[
+    {
+        "id": 225,
+        "code": "0714",
+        "name": "AIN NAGA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 229,
+        "code": "0718",
+        "name": "AIN ZAATOUT",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 218,
+        "code": "0701",
+        "name": "BISKRA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 238,
+        "code": "0727",
+        "name": "BORDJ BEN AZZOUZ",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 240,
+        "code": "0729",
+        "name": "BOUCHEGROUN",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 220,
+        "code": "0703",
+        "name": "BRANIS",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 221,
+        "code": "0704",
+        "name": "CHETMA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 231,
+        "code": "0720",
+        "name": "DJEMOURAH",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 227,
+        "code": "0716",
+        "name": "EL FEIDH",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 242,
+        "code": "0731",
+        "name": "EL GHROUS",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 243,
+        "code": "0732",
+        "name": "EL HADJAB",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 224,
+        "code": "0713",
+        "name": "EL HAOUCH",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 228,
+        "code": "0717",
+        "name": "EL KANTARA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 230,
+        "code": "0719",
+        "name": "ELOUTAYA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 237,
+        "code": "0726",
+        "name": "FOUGHALA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 244,
+        "code": "0733",
+        "name": "KHANGUET SIDI NADJI",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 234,
+        "code": "0723",
+        "name": "LICHANA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 233,
+        "code": "0722",
+        "name": "LIOUA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 223,
+        "code": "0712",
+        "name": "MCHOUNECHE",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 241,
+        "code": "0730",
+        "name": "MEKHADMA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 236,
+        "code": "0725",
+        "name": "MLILI",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 239,
+        "code": "0728",
+        "name": "MZIRAA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 235,
+        "code": "0724",
+        "name": "OURLAL",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 222,
+        "code": "0711",
+        "name": "SIDI OKBA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 232,
+        "code": "0721",
+        "name": "TOLGA",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 226,
+        "code": "0715",
+        "name": "ZERIBET EL OUED",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    },
+    {
+        "id": 219,
+        "code": "0702",
+        "name": "oumache",
+        "wilayaId": 7,
+        "wilayaName": "Biskra",
+        "isActive": true
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1415,
+        "code": "4609",
+        "name": "AIN ELARBAA",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1409,
+        "code": "4603",
+        "name": "Ain Kihal",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1407,
+        "code": "4601",
+        "name": "Ain Temouchent",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1424,
+        "code": "4618",
+        "name": "Ain Tolba",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1429,
+        "code": "4623",
+        "name": "BENI SAF",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1411,
+        "code": "4605",
+        "name": "BOUZEDJAR",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1420,
+        "code": "4614",
+        "name": "EL MALAH",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1434,
+        "code": "4628",
+        "name": "EL MESSAID",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1425,
+        "code": "4619",
+        "name": "El Amria",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1433,
+        "code": "4627",
+        "name": "Emir Abdelkader",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1410,
+        "code": "4604",
+        "name": "HAMMAM BOUHADJAR",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1426,
+        "code": "4620",
+        "name": "HASSI EL GHELLA",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1427,
+        "code": "4621",
+        "name": "Hassasna",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1423,
+        "code": "4617",
+        "name": "OULED BOUDJEMAA",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1428,
+        "code": "4622",
+        "name": "OULED KIHAL",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1422,
+        "code": "4616",
+        "name": "Oued Sebbah",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1421,
+        "code": "4615",
+        "name": "SIDI BOUMEDIENE",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1430,
+        "code": "4624",
+        "name": "Sidi Safi",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1416,
+        "code": "4610",
+        "name": "TAMZOURA",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1414,
+        "code": "4608",
+        "name": "TERGA",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1413,
+        "code": "4607",
+        "name": "aghllal",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1419,
+        "code": "4613",
+        "name": "aoubellil",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1408,
+        "code": "4602",
+        "name": "chaabat el leham",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1417,
+        "code": "4611",
+        "name": "chentouf",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1412,
+        "code": "4606",
+        "name": "oued berkeche",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1431,
+        "code": "4625",
+        "name": "oulhaca",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1418,
+        "code": "4612",
+        "name": "sidi ben adda",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    },
+    {
+        "id": 1432,
+        "code": "4626",
+        "name": "sidi ouriache",
+        "wilayaId": 46,
+        "wilayaName": "Aïn Témouchent",
+        "isActive": true
+    }
+]

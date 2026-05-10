@@ -1,0 +1,362 @@
+[
+    {
+        "id": 307,
+        "code": "1027",
+        "name": "AGHBALOU",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 302,
+        "code": "1022",
+        "name": "AHL EL KSAR",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 286,
+        "code": "1006",
+        "name": "AHNIF",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 315,
+        "code": "1035",
+        "name": "AIN BESSEM",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 309,
+        "code": "1029",
+        "name": "AIN TURK",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 288,
+        "code": "1008",
+        "name": "AIT LAAZIZ",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 323,
+        "code": "1043",
+        "name": "ATHMANSOUR",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 321,
+        "code": "1041",
+        "name": "Ain Laloui",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 305,
+        "code": "1025",
+        "name": "Ain el Hadjar",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 296,
+        "code": "1016",
+        "name": "Aomar",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 313,
+        "code": "1033",
+        "name": "BECHLOUL",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 316,
+        "code": "1036",
+        "name": "BIR GHBALOU",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 303,
+        "code": "1023",
+        "name": "Bouderbala",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 281,
+        "code": "1001",
+        "name": "Bouira",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 287,
+        "code": "1007",
+        "name": "DIRAH",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 311,
+        "code": "1031",
+        "name": "Dechmia",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 306,
+        "code": "1026",
+        "name": "Djebahia",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 282,
+        "code": "1002",
+        "name": "EL ESNAM",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 301,
+        "code": "1021",
+        "name": "EL KHABOUZIA",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 299,
+        "code": "1019",
+        "name": "EL-ADJIBA",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 295,
+        "code": "1015",
+        "name": "ELHACHIMIA",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 300,
+        "code": "1020",
+        "name": "El Hakimia",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 322,
+        "code": "1042",
+        "name": "HADJRA ZERGA",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 292,
+        "code": "1012",
+        "name": "Haizer",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 285,
+        "code": "1005",
+        "name": "KADIRIA",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 293,
+        "code": "1013",
+        "name": "Lakhdaria",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 317,
+        "code": "1037",
+        "name": "MCHEDALLAH",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 291,
+        "code": "1011",
+        "name": "MESDOUR",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 325,
+        "code": "1045",
+        "name": "OUED ELBERDI",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 320,
+        "code": "1040",
+        "name": "OULED RACHED",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 290,
+        "code": "1010",
+        "name": "RAOURAOUA",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 310,
+        "code": "1030",
+        "name": "SAHARIDJ",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 308,
+        "code": "1028",
+        "name": "TAGUEDITE",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 289,
+        "code": "1009",
+        "name": "Taghzout",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 304,
+        "code": "1024",
+        "name": "Zbarbar",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 298,
+        "code": "1018",
+        "name": "bordj okhriss",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 314,
+        "code": "1034",
+        "name": "boukram",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 297,
+        "code": "1017",
+        "name": "chorfa",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 324,
+        "code": "1044",
+        "name": "el mokrani",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 283,
+        "code": "1003",
+        "name": "guerrouma",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 294,
+        "code": "1014",
+        "name": "maalla",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 319,
+        "code": "1039",
+        "name": "maamora",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 312,
+        "code": "1032",
+        "name": "ridane",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 284,
+        "code": "1004",
+        "name": "souk el khemis",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    },
+    {
+        "id": 318,
+        "code": "1038",
+        "name": "sour el ghozlane",
+        "wilayaId": 10,
+        "wilayaName": "Bouira",
+        "isActive": true
+    }
+]

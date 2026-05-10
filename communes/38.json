@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1220,
+        "code": "3813",
+        "name": "AMMARI",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1229,
+        "code": "3822",
+        "name": "BENI LAHCEN",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1209,
+        "code": "3802",
+        "name": "BORDJ BOUNAAMA",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1216,
+        "code": "3809",
+        "name": "BORDJ EMIR AEK",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1228,
+        "code": "3821",
+        "name": "BOUCAID",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1212,
+        "code": "3805",
+        "name": "Beni chaib",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1218,
+        "code": "3811",
+        "name": "KHEMISTI",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1223,
+        "code": "3816",
+        "name": "Larbaa",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1213,
+        "code": "3806",
+        "name": "Lardjem",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1224,
+        "code": "3817",
+        "name": "Maacem",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1214,
+        "code": "3807",
+        "name": "Melaab",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1219,
+        "code": "3812",
+        "name": "Ouled Bessem",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1225,
+        "code": "3818",
+        "name": "Sidi Abed",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1222,
+        "code": "3815",
+        "name": "Sidi Boutouchent",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1215,
+        "code": "3808",
+        "name": "Sidi Lantri",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1227,
+        "code": "3820",
+        "name": "Sidi Slimane",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1226,
+        "code": "3819",
+        "name": "Tamellahet",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1210,
+        "code": "3803",
+        "name": "Theniet El Had",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1208,
+        "code": "3801",
+        "name": "Tissemsilt",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1221,
+        "code": "3814",
+        "name": "YOUSSOUFIA",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1217,
+        "code": "3810",
+        "name": "layoune",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    },
+    {
+        "id": 1211,
+        "code": "3804",
+        "name": "lazharia",
+        "wilayaId": 38,
+        "wilayaName": "Tissemsilt",
+        "isActive": true
+    }
+]

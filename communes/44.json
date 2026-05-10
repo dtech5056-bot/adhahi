@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1384,
+        "code": "4426",
+        "name": "AIN BENIAN",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1391,
+        "code": "4433",
+        "name": "AIN BOUYAHIA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1359,
+        "code": "4401",
+        "name": "AIN DEFLA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1372,
+        "code": "4414",
+        "name": "AIN LECHIEKH",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1381,
+        "code": "4423",
+        "name": "AIN TORKI",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1364,
+        "code": "4406",
+        "name": "Arib",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1394,
+        "code": "4436",
+        "name": "BELAAS",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1383,
+        "code": "4425",
+        "name": "BEN ALLEL",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1380,
+        "code": "4422",
+        "name": "BORDJ EMIR KHALED",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1361,
+        "code": "4403",
+        "name": "BOU-MEDFAA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1367,
+        "code": "4409",
+        "name": "BOURACHED",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1389,
+        "code": "4431",
+        "name": "Bathia",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1377,
+        "code": "4419",
+        "name": "Bir Ould Khelifa",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1386,
+        "code": "4428",
+        "name": "Birbouche",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1365,
+        "code": "4407",
+        "name": "Djelida",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1370,
+        "code": "4412",
+        "name": "Djendel",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1369,
+        "code": "4411",
+        "name": "EL ABADIA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1368,
+        "code": "4410",
+        "name": "EL ATTAF",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1376,
+        "code": "4418",
+        "name": "EL HASSANIA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1392,
+        "code": "4434",
+        "name": "EL- MAINE",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1385,
+        "code": "4427",
+        "name": "Hoceinia",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1362,
+        "code": "4404",
+        "name": "KHEMIS MILIANA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1360,
+        "code": "4402",
+        "name": "MILIANA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1388,
+        "code": "4430",
+        "name": "Mekhatria",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1373,
+        "code": "4415",
+        "name": "OUED DJEMAA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1374,
+        "code": "4416",
+        "name": "ROUINA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1382,
+        "code": "4424",
+        "name": "SIDI LAKHDAR",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1390,
+        "code": "4432",
+        "name": "TACHETA ZOUGAGHA",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1379,
+        "code": "4421",
+        "name": "TARIK IBN ZIAD",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1393,
+        "code": "4435",
+        "name": "TIBERKANINE",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1375,
+        "code": "4417",
+        "name": "ZEDDINE",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1378,
+        "code": "4420",
+        "name": "ain soltane",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1387,
+        "code": "4429",
+        "name": "djemaa ouled cheikh",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1366,
+        "code": "4408",
+        "name": "elamra",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1363,
+        "code": "4405",
+        "name": "hammam righa",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    },
+    {
+        "id": 1371,
+        "code": "4413",
+        "name": "oued chorfa",
+        "wilayaId": 44,
+        "wilayaName": "Aïn Defla",
+        "isActive": true
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "id": 946,
+        "code": "2717",
+        "name": "ACHAACHA",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 934,
+        "code": "2705",
+        "name": "AIN NOUISSY",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 936,
+        "code": "2707",
+        "name": "AIN TEDELES",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 957,
+        "code": "2728",
+        "name": "AIN-BOUDINAR",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 950,
+        "code": "2721",
+        "name": "Ain Sidi Cherif",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 942,
+        "code": "2713",
+        "name": "Ben Abdelmalek Ramdan",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 961,
+        "code": "2732",
+        "name": "El hassiane",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 932,
+        "code": "2703",
+        "name": "FORNAKA",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 943,
+        "code": "2714",
+        "name": "Hadjadj",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 935,
+        "code": "2706",
+        "name": "Hassi Mameche",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 940,
+        "code": "2711",
+        "name": "KHEIR-DINE",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 952,
+        "code": "2723",
+        "name": "Mansourah",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 951,
+        "code": "2722",
+        "name": "Mesra",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 930,
+        "code": "2701",
+        "name": "Mostaganem",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 944,
+        "code": "2715",
+        "name": "NEKMARIA",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 955,
+        "code": "2726",
+        "name": "OULED MAALLAH",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 938,
+        "code": "2709",
+        "name": "Oued el kheir",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 945,
+        "code": "2716",
+        "name": "SIDI LAKHDAR",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 953,
+        "code": "2724",
+        "name": "SOUAFLIA",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 933,
+        "code": "2704",
+        "name": "STIDIA",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 959,
+        "code": "2730",
+        "name": "Saf-Saf",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 931,
+        "code": "2702",
+        "name": "Sayada",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 941,
+        "code": "2712",
+        "name": "Sidi Ali",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 939,
+        "code": "2710",
+        "name": "Sidi Belattar",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 949,
+        "code": "2720",
+        "name": "Sirat",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 937,
+        "code": "2708",
+        "name": "Sour",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 958,
+        "code": "2729",
+        "name": "TAZGAIT",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 960,
+        "code": "2731",
+        "name": "TOUAHRIA",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 948,
+        "code": "2719",
+        "name": "bouguirat",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 947,
+        "code": "2718",
+        "name": "khadra",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 956,
+        "code": "2727",
+        "name": "mazagran",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    },
+    {
+        "id": 954,
+        "code": "2725",
+        "name": "ouled boughalem",
+        "wilayaId": 27,
+        "wilayaName": "Mostaganem",
+        "isActive": true
+    }
+]

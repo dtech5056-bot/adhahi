@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1530,
+        "code": "5602",
+        "name": "BORDJ EL HAOUASSE",
+        "wilayaId": 56,
+        "wilayaName": "Djanet",
+        "isActive": true
+    },
+    {
+        "id": 1529,
+        "code": "5601",
+        "name": "DJANET",
+        "wilayaId": 56,
+        "wilayaName": "Djanet",
+        "isActive": true
+    }
+]

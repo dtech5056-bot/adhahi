@@ -1,0 +1,418 @@
+[
+    {
+        "id": 189,
+        "code": "0624",
+        "name": "ADEKAR",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 193,
+        "code": "0628",
+        "name": "AIT RZINE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 212,
+        "code": "0647",
+        "name": "AIT SMAIL",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 190,
+        "code": "0625",
+        "name": "AKBOU",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 167,
+        "code": "0602",
+        "name": "AMIZOUR",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 187,
+        "code": "0622",
+        "name": "AOKAS",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 207,
+        "code": "0642",
+        "name": "Akfadou",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 181,
+        "code": "0616",
+        "name": "Amalou",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 199,
+        "code": "0634",
+        "name": "BARBACHA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 166,
+        "code": "0601",
+        "name": "BEJAIA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 188,
+        "code": "0623",
+        "name": "BENI DJELLIL",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 215,
+        "code": "0650",
+        "name": "BENI MAOUCHE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 203,
+        "code": "0638",
+        "name": "BENI MELLIKECHE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 200,
+        "code": "0635",
+        "name": "BENI-KSILA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 217,
+        "code": "0652",
+        "name": "BOUDJELLIL",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 202,
+        "code": "0637",
+        "name": "BOUHAMZA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 213,
+        "code": "0648",
+        "name": "BOUKHELIFA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 170,
+        "code": "0605",
+        "name": "CHELLATA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 194,
+        "code": "0629",
+        "name": "CHEMINI",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 185,
+        "code": "0620",
+        "name": "DARGUINA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 210,
+        "code": "0645",
+        "name": "DRAA EL GAID",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 205,
+        "code": "0640",
+        "name": "EL KSEUR",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 208,
+        "code": "0643",
+        "name": "EL-FLAYE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 183,
+        "code": "0618",
+        "name": "FENAIA IL MATEN",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 168,
+        "code": "0603",
+        "name": "FERAOUN",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 182,
+        "code": "0617",
+        "name": "IGHIL ALI",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 180,
+        "code": "0615",
+        "name": "IGHRAM",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 178,
+        "code": "0613",
+        "name": "KENDIRA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 209,
+        "code": "0644",
+        "name": "KHERRATA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 174,
+        "code": "0609",
+        "name": "MCISNA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 206,
+        "code": "0641",
+        "name": "MELBOU",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 201,
+        "code": "0636",
+        "name": "OUZELLAGUEN",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 191,
+        "code": "0626",
+        "name": "SEDDOUK",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 204,
+        "code": "0639",
+        "name": "SIDI AICH",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 186,
+        "code": "0621",
+        "name": "SIDI AYAD",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 177,
+        "code": "0612",
+        "name": "SMAOUN",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 173,
+        "code": "0608",
+        "name": "SOUK EL TENINE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 195,
+        "code": "0630",
+        "name": "SOUK-OUFELLA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 171,
+        "code": "0606",
+        "name": "TAMOKRA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 211,
+        "code": "0646",
+        "name": "TAMRIDJET",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 196,
+        "code": "0631",
+        "name": "TASKRIOUT",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 192,
+        "code": "0627",
+        "name": "TAZMALT",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 197,
+        "code": "0632",
+        "name": "TIBANE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 176,
+        "code": "0611",
+        "name": "TICHY",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 179,
+        "code": "0614",
+        "name": "TIFRA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 172,
+        "code": "0607",
+        "name": "TIMEZRIT",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 214,
+        "code": "0649",
+        "name": "TIZI NBERBERE",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 184,
+        "code": "0619",
+        "name": "TOUDJA",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 169,
+        "code": "0604",
+        "name": "Taourirt Ighil",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 175,
+        "code": "0610",
+        "name": "Tinebdar",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 216,
+        "code": "0651",
+        "name": "oued ghir",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    },
+    {
+        "id": 198,
+        "code": "0633",
+        "name": "tala hamza",
+        "wilayaId": 6,
+        "wilayaName": "Béjaia",
+        "isActive": true
+    }
+]

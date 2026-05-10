@@ -1,0 +1,274 @@
+[
+    {
+        "id": 826,
+        "code": "2407",
+        "name": "AIN SANDEL",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 842,
+        "code": "2423",
+        "name": "Ain Larbi",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 832,
+        "code": "2413",
+        "name": "Ain Makhlouf",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 851,
+        "code": "2432",
+        "name": "Ain Regada",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 833,
+        "code": "2414",
+        "name": "Ain ben beida",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 830,
+        "code": "2411",
+        "name": "Bendjerrah",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 835,
+        "code": "2416",
+        "name": "Beni Mezzeline",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 840,
+        "code": "2421",
+        "name": "Bordj sabath",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 822,
+        "code": "2403",
+        "name": "Bouati Mahmoud",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 836,
+        "code": "2417",
+        "name": "Bouhachana",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 831,
+        "code": "2412",
+        "name": "Bouhamdane",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 828,
+        "code": "2409",
+        "name": "Dahouara",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 853,
+        "code": "2434",
+        "name": "Djebala Khemissi",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 839,
+        "code": "2420",
+        "name": "El-Fedjoudj",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 837,
+        "code": "2418",
+        "name": "GUELAAT BOUSBAA",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 820,
+        "code": "2401",
+        "name": "Guelma",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 841,
+        "code": "2422",
+        "name": "Hammam nbails",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 845,
+        "code": "2426",
+        "name": "Heliopolis",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 846,
+        "code": "2427",
+        "name": "Houari Boumediene",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 834,
+        "code": "2415",
+        "name": "Khezaras",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 843,
+        "code": "2424",
+        "name": "Medjez Amar",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 849,
+        "code": "2430",
+        "name": "Medjez-sfa",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 821,
+        "code": "2402",
+        "name": "NECHMEYA",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 823,
+        "code": "2404",
+        "name": "Oued Zenati",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 852,
+        "code": "2433",
+        "name": "Oued cheham",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 825,
+        "code": "2406",
+        "name": "Oued fragha",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 827,
+        "code": "2408",
+        "name": "Ras El Akba",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 847,
+        "code": "2428",
+        "name": "Roknia",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 848,
+        "code": "2429",
+        "name": "Sellaoua Announa",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 824,
+        "code": "2405",
+        "name": "Tamlouka",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 829,
+        "code": "2410",
+        "name": "belkheir",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 844,
+        "code": "2425",
+        "name": "bouchegouf",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 850,
+        "code": "2431",
+        "name": "boumahra ahmed",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    },
+    {
+        "id": 838,
+        "code": "2419",
+        "name": "hammam debagh",
+        "wilayaId": 24,
+        "wilayaName": "Guelma",
+        "isActive": true
+    }
+]

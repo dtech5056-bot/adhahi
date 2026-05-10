@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1114,
+        "code": "3304",
+        "name": "BORDJ OMAR IDRISS",
+        "wilayaId": 33,
+        "wilayaName": "Illizi",
+        "isActive": true
+    },
+    {
+        "id": 1113,
+        "code": "3303",
+        "name": "DEBDEB",
+        "wilayaId": 33,
+        "wilayaName": "Illizi",
+        "isActive": true
+    },
+    {
+        "id": 1112,
+        "code": "3301",
+        "name": "ILLIZI",
+        "wilayaId": 33,
+        "wilayaName": "Illizi",
+        "isActive": true
+    },
+    {
+        "id": 1115,
+        "code": "3306",
+        "name": "IN AMENAS",
+        "wilayaId": 33,
+        "wilayaName": "Illizi",
+        "isActive": true
+    }
+]

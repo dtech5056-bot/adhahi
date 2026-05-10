@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1233,
+        "code": "3904",
+        "name": "BAYADA",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1248,
+        "code": "3919",
+        "name": "BEN GUECHA",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1240,
+        "code": "3911",
+        "name": "Debila",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1244,
+        "code": "3915",
+        "name": "Douar El Maa",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1250,
+        "code": "3925",
+        "name": "EL OGLA",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1230,
+        "code": "3901",
+        "name": "ELOUED",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1235,
+        "code": "3906",
+        "name": "GUEMAR",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1241,
+        "code": "3912",
+        "name": "HASSANI Abdelkrim",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1242,
+        "code": "3913",
+        "name": "Hassi Khalifa",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1236,
+        "code": "3907",
+        "name": "Kouinine",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1247,
+        "code": "3918",
+        "name": "Magrane",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1251,
+        "code": "3926",
+        "name": "Mih Ouensa",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1234,
+        "code": "3905",
+        "name": "NAKHLA",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1232,
+        "code": "3903",
+        "name": "OUED ELALENDA",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1231,
+        "code": "3902",
+        "name": "ROBBAH",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1245,
+        "code": "3916",
+        "name": "Sidi Aoun",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1239,
+        "code": "3910",
+        "name": "TAGHZOUT",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1238,
+        "code": "3909",
+        "name": "hamraia",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1249,
+        "code": "3920",
+        "name": "ourmes",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1237,
+        "code": "3908",
+        "name": "reguiba",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1243,
+        "code": "3914",
+        "name": "taleb larbi",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    },
+    {
+        "id": 1246,
+        "code": "3917",
+        "name": "trifaoui",
+        "wilayaId": 39,
+        "wilayaName": "El Oued",
+        "isActive": true
+    }
+]

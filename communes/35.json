@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1173,
+        "code": "3524",
+        "name": "AMMAL",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1167,
+        "code": "3518",
+        "name": "ARBATACHE",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1152,
+        "code": "3503",
+        "name": "Afir",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1154,
+        "code": "3505",
+        "name": "BAGHLIA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1153,
+        "code": "3504",
+        "name": "BORDJMENAIEL",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1151,
+        "code": "3502",
+        "name": "BOUDOUAOU",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1176,
+        "code": "3527",
+        "name": "BOUDOUAOU EL BAHRI",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1168,
+        "code": "3519",
+        "name": "BOUZEGZA KEDDARA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1171,
+        "code": "3522",
+        "name": "Ben Choud",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1174,
+        "code": "3525",
+        "name": "Beni Amrane",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1150,
+        "code": "3501",
+        "name": "Boumerdes",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1162,
+        "code": "3513",
+        "name": "CHABET EL AMEUR",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1165,
+        "code": "3516",
+        "name": "Corso",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1172,
+        "code": "3523",
+        "name": "DELLYS",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1157,
+        "code": "3508",
+        "name": "DJINET",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1181,
+        "code": "3532",
+        "name": "EL KHARROUBA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1179,
+        "code": "3530",
+        "name": "HAMMEDI",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1158,
+        "code": "3509",
+        "name": "ISSER",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1180,
+        "code": "3531",
+        "name": "KHEMIS EL KHECHNA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1178,
+        "code": "3529",
+        "name": "LEGHATA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1156,
+        "code": "3507",
+        "name": "NACIRIA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1170,
+        "code": "3521",
+        "name": "OULED AISSA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1166,
+        "code": "3517",
+        "name": "OULED MOSSA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1177,
+        "code": "3528",
+        "name": "Ouled Haddadj",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1160,
+        "code": "3511",
+        "name": "SI MUSTAPHA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1155,
+        "code": "3506",
+        "name": "SIDI DAOUD",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1175,
+        "code": "3526",
+        "name": "SOUK EL HAAD",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1163,
+        "code": "3514",
+        "name": "THENIA",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1161,
+        "code": "3512",
+        "name": "TIDJELABINE",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1169,
+        "code": "3520",
+        "name": "Taourga",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1164,
+        "code": "3515",
+        "name": "Timezrit",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    },
+    {
+        "id": 1159,
+        "code": "3510",
+        "name": "ZEMMOURI",
+        "wilayaId": 35,
+        "wilayaName": "Boumerdès",
+        "isActive": true
+    }
+]

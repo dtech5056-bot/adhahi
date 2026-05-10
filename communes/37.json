@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1207,
+        "code": "3702",
+        "name": "Oum el Assel",
+        "wilayaId": 37,
+        "wilayaName": "Tindouf",
+        "isActive": true
+    },
+    {
+        "id": 1206,
+        "code": "3701",
+        "name": "TINDOUF",
+        "wilayaId": 37,
+        "wilayaName": "Tindouf",
+        "isActive": true
+    }
+]

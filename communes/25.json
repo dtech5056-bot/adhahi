@@ -1,0 +1,98 @@
+[
+    {
+        "id": 863,
+        "code": "2510",
+        "name": "AIN SMARA",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 860,
+        "code": "2507",
+        "name": "Ain Abid",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 861,
+        "code": "2508",
+        "name": "BENI HAMIDENE",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 856,
+        "code": "2503",
+        "name": "Ben badis",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 854,
+        "code": "2501",
+        "name": "CONSTANTINE",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 858,
+        "code": "2505",
+        "name": "DIDOUCHE MOURAD",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 859,
+        "code": "2506",
+        "name": "EL KHROUB",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 855,
+        "code": "2502",
+        "name": "HAMMA BOUZIANE",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 865,
+        "code": "2512",
+        "name": "IBN ZIAD",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 864,
+        "code": "2511",
+        "name": "MESSAOUD BOUDJERIOU",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 862,
+        "code": "2509",
+        "name": "Ouled rahmoun",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    },
+    {
+        "id": 857,
+        "code": "2504",
+        "name": "ZIGHOUD YOUCEF",
+        "wilayaId": 25,
+        "wilayaName": "Constantine",
+        "isActive": true
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1337,
+        "code": "4311",
+        "name": "AHMED RACHEDI",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1356,
+        "code": "4330",
+        "name": "AIN ELBAIDA AHRICHE",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1331,
+        "code": "4305",
+        "name": "AIN MELOUK",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1351,
+        "code": "4325",
+        "name": "AIN TIN",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1348,
+        "code": "4322",
+        "name": "AMIRA ARRES",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1335,
+        "code": "4309",
+        "name": "BENYAHIA ABDERRAHMANE",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1340,
+        "code": "4314",
+        "name": "BOUHATEM",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1329,
+        "code": "4303",
+        "name": "CHELGHOUM LAID",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1346,
+        "code": "4320",
+        "name": "DERRAHI BOUSSELAH",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1328,
+        "code": "4302",
+        "name": "FERDJIOUA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1343,
+        "code": "4317",
+        "name": "GRAREM GOUGA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1350,
+        "code": "4324",
+        "name": "HAMALA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1355,
+        "code": "4329",
+        "name": "LAYADDI BERBESSE",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1344,
+        "code": "4318",
+        "name": "MEROUANE",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1347,
+        "code": "4321",
+        "name": "MINAR ZARAZA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1327,
+        "code": "4301",
+        "name": "Mila",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1330,
+        "code": "4304",
+        "name": "OUED ATHMANIA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1336,
+        "code": "4310",
+        "name": "OUED ENDJA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1333,
+        "code": "4307",
+        "name": "OUED SEGUEN",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1338,
+        "code": "4312",
+        "name": "OULED KHELOUF",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1341,
+        "code": "4315",
+        "name": "ROUACHED",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1353,
+        "code": "4327",
+        "name": "SIDI KHELIFA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1334,
+        "code": "4308",
+        "name": "TADJENANET",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1345,
+        "code": "4319",
+        "name": "TASSADEN HEDDADA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1342,
+        "code": "4316",
+        "name": "TASSALA LEMTAI",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1332,
+        "code": "4306",
+        "name": "TELEGHMA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1349,
+        "code": "4323",
+        "name": "TERRAI BAINEN",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1339,
+        "code": "4313",
+        "name": "TIBERGUENT",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1357,
+        "code": "4331",
+        "name": "YAHIA BENI GUECHA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1354,
+        "code": "4328",
+        "name": "ZEGHAYA",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1358,
+        "code": "4332",
+        "name": "chigara",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    },
+    {
+        "id": 1352,
+        "code": "4326",
+        "name": "mechira",
+        "wilayaId": 43,
+        "wilayaName": "Mila",
+        "isActive": true
+    }
+]

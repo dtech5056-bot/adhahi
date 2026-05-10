@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1536,
+        "code": "5706",
+        "name": "DJAMAA",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1531,
+        "code": "5701",
+        "name": "EL-MGHAIR",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1533,
+        "code": "5703",
+        "name": "MRARA",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1538,
+        "code": "5708",
+        "name": "SIDI AMRANE",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1534,
+        "code": "5704",
+        "name": "SIDI KHELIL",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1532,
+        "code": "5702",
+        "name": "STILL",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1535,
+        "code": "5705",
+        "name": "TENEDLA",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    },
+    {
+        "id": 1537,
+        "code": "5707",
+        "name": "oum thiour",
+        "wilayaId": 57,
+        "wilayaName": "El M'Ghair",
+        "isActive": true
+    }
+]
