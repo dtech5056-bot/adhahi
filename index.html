@@ -110,7 +110,7 @@
         const form = document.getElementById('dataForm');
         const submitBtn = document.getElementById('submitBtn');
 
-        // 1. Fetch Communes when a Wilaya is selected (Using CORS Proxy)
+        // 1. Fetch Communes from LOCAL GitHub folder
         wilayaSelect.addEventListener('change', async (e) => {
             const wilayaCode = e.target.value;
             
@@ -125,13 +125,13 @@
             }
 
             try {
-                // The actual API URL
-                const targetUrl = `https://adhahi.dz/api/v1/locations/wilayas/${wilayaCode}/communes`;
+                // Convert "01" to "1" to match your downloaded JSON file names (1.json, 2.json, etc.)
+                const localFileId = parseInt(wilayaCode, 10);
                 
-                // Using corsproxy.io to bypass GitHub Pages limits
-                const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(targetUrl)}`;
+                // Fetch directly from the "communes" folder on your GitHub Pages repo
+                const localUrl = `./communes/${localFileId}.json`;
                 
-                const response = await fetch(proxyUrl);
+                const response = await fetch(localUrl);
                 
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 
@@ -150,9 +150,9 @@
                 communeSelect.disabled = false;
                 submitBtn.disabled = false;
             } catch (error) {
-                console.error("Failed to fetch communes:", error);
-                communeSelect.innerHTML = '<option value="">Error loading communes</option>';
-                alert("Failed to connect to the Adhahi API. The CORS proxy might be temporarily blocked.");
+                console.error("Failed to load local communes:", error);
+                communeSelect.innerHTML = '<option value="">Error loading data</option>';
+                alert("Could not load commune data. Make sure you uploaded the 'communes' folder containing the JSON files to your GitHub repository.");
             }
         });
 
@@ -160,7 +160,6 @@
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
             
-            // Disable button to prevent double submissions
             submitBtn.disabled = true;
             submitBtn.textContent = 'Sending...';
 
@@ -201,7 +200,6 @@
                 console.error("Failed to send message to Telegram:", error);
                 alert("Network error while communicating with Telegram.");
             } finally {
-                // Re-enable the submit button
                 submitBtn.disabled = false;
                 submitBtn.textContent = 'Send to Telegram Bot';
             }
