@@ -112,15 +112,15 @@
             <option value="">Select Commune...</option>
         </select>
 
-        <button type="submit" id="submitBtn">Send to Telegram Bot</button>
+        <button type="submit" id="submitBtn">Open in Telegram</button>
     </form>
 
     <script>
         // ==========================================
-        // ⚠️ EDIT THESE TWO VARIABLES BEFORE DEPLOYING
+        // ⚠️ EDIT THIS VARIABLE BEFORE DEPLOYING
         // ==========================================
-        const BOT_TOKEN = '8739703950:AAGxXnHSSKZR6JLETNHC-LWMd9xzWMK2yPA'; 
-        const CHAT_ID = '1892066815';
+        // Enter your bot's username without the @ symbol (e.g., 'MyAdhahiBot')
+        const BOT_USERNAME = '@Adhahi_16bot'; 
         // ==========================================
 
         const wilayaSelect = document.getElementById('wilaya_code');
@@ -169,16 +169,11 @@
             }
         });
 
-        // Handle Form Submission & Send to Telegram
-        form.addEventListener('submit', async (e) => {
-            // e.preventDefault() prevents the page from refreshing. 
-            // Because it's attached to the 'submit' event, the browser will have ALREADY 
-            // checked our regex patterns and blocked the submission if any are wrong!
+        // Handle Form Submission & Open Telegram Client
+        form.addEventListener('submit', (e) => {
+            // Prevent the page from refreshing
             e.preventDefault(); 
             
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Sending...';
-
             const name = document.getElementById('name').value.trim();
             const nin = document.getElementById('nin').value.trim();
             const cni = document.getElementById('cni').value.trim();
@@ -188,31 +183,20 @@
             const wilaya_code = document.getElementById('wilaya_code').value.trim();
             const commune_code = document.getElementById('commune_code').value.trim();
 
+            // Create the command string
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
-            try {
-                const tgResponse = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ chat_id: CHAT_ID, text: commandString })
-                });
+            // Create the Telegram deep link URL
+            // encodeURIComponent ensures special characters (like | or @ in passwords) are sent safely in the URL
+            const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`;
 
-                if (tgResponse.ok) {
-                    alert('Successfully sent to Telegram!');
-                    form.reset();
-                    communeSelect.innerHTML = '<option value="">Select Commune...</option>';
-                    communeSelect.disabled = true;
-                } else {
-                    const err = await tgResponse.json();
-                    alert(`Telegram Error: ${err.description}`);
-                }
-            } catch (error) {
-                console.error("Failed to send message to Telegram:", error);
-                alert("Network error while communicating with Telegram.");
-            } finally {
-                submitBtn.disabled = false;
-                submitBtn.textContent = 'Send to Telegram Bot';
-            }
+            // Open the user's Telegram app/web in a new tab with the pre-filled text
+            window.open(telegramUrl, '_blank');
+
+            // Reset the form so it's ready for the next entry
+            form.reset();
+            communeSelect.innerHTML = '<option value="">Select Commune...</option>';
+            communeSelect.disabled = true;
         });
     </script>
 </body>
