@@ -207,19 +207,11 @@
             const commune_code = document.getElementById('commune_code').value.trim();
 
             // Create the command string
-            const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
+           const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
-            // Create the Telegram deep link URL with BACKTICKS
-            const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`; 
-
-            // Check if opened inside Telegram's WebApp
-            if (window.Telegram && window.Telegram.WebApp && window.Telegram.WebApp.initData) {
-                // Native Telegram method: Bypasses the popup blocker safely
-                Telegram.WebApp.openTelegramLink(telegramUrl);
-            } else {
-                // Fallback for normal web browsers (Chrome, Safari, etc.)
-                window.open(telegramUrl, '_blank');
-            }
+if (window.Telegram && window.Telegram.WebApp) {
+    Telegram.WebApp.sendData(commandString); 
+}
 
             // Reset the form so it's ready for the next entry
             form.reset();
