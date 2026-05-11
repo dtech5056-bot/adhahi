@@ -215,7 +215,7 @@
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
             // Create the Telegram deep link URL
-            const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`;
+            const telegramUrl = `tg://resolve?domain=${BOT_USERNAME}&text=${encodeURIComponent(commandString)}`;
 
             // Open the user's Telegram app/web in a new tab with the pre-filled text
             window.location.href = telegramUrl;
