@@ -24,7 +24,7 @@
     <form id="dataForm">
         <h3>Add User Data</h3>
         
-        <input type="text" id="name" placeholder="Name (e.g., Mounir)" required>
+        <input type="text" id="name" placeholder="Name" required>
         
         <input type="text" id="nin" placeholder="NIN (18 digits)" 
                required pattern="[0-9]{18}" maxlength="18" 
@@ -34,11 +34,12 @@
                required pattern="[0-9]{9}" maxlength="9" 
                title="CNI must be exactly 9 digits.">
                
-        <input type="tel" id="phone" placeholder="Phone (e.g., 0661232740)" 
+        <input type="tel" id="phone" placeholder="Phone (e.g., 0660123456)" 
                required pattern="0[567][0-9]{8}" maxlength="10" 
                title="Phone must be exactly 10 digits and start with 05, 06, or 07.">
                
-        <input type="email" id="email" placeholder="Email" required>
+        <!-- Email is now optional -->
+        <input type="email" id="email" placeholder="Email (Optional)">
         
         <input type="password" id="password" placeholder="Password" 
                required pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@#$%^&+=])[^\s]{8,}$" 
@@ -178,7 +179,7 @@
             const nin = document.getElementById('nin').value.trim();
             const cni = document.getElementById('cni').value.trim();
             const phone = document.getElementById('phone').value.trim();
-            const email = document.getElementById('email').value.trim();
+            const email = document.getElementById('email').value.trim(); // Will just be empty string if left blank
             const password = document.getElementById('password').value.trim();
             const wilaya_code = document.getElementById('wilaya_code').value.trim();
             const commune_code = document.getElementById('commune_code').value.trim();
@@ -187,7 +188,6 @@
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
             // Create the Telegram deep link URL
-            // encodeURIComponent ensures special characters (like | or @ in passwords) are sent safely in the URL
             const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`;
 
             // Open the user's Telegram app/web in a new tab with the pre-filled text
