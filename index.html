@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adhahi Data Entry Form</title>
     
-    <!-- REQUIRED: Telegram Web App Library -->
+    <!-- REQUIRED: Telegram Web App Library to safely bypass popup blockers -->
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     
     <style>
@@ -14,6 +14,7 @@
         h3 { margin-top: 0; text-align: center; color: #333; }
         input, select, button { padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
         
+        /* Highlight invalid fields slightly when the user is typing */
         input:focus:invalid { border-color: #e74c3c; outline: none; box-shadow: 0 0 5px rgba(231, 76, 60, 0.5); }
         input:focus:valid { border-color: #2ecc71; outline: none; box-shadow: 0 0 5px rgba(46, 204, 113, 0.5); }
 
@@ -25,7 +26,7 @@
 <body>
 
     <form id="dataForm">
-        <h3>Add User Data 3</h3>
+        <h3>Add User Data 0</h3>
         
         <input type="text" id="name" placeholder="Name" required>
         
@@ -41,37 +42,98 @@
                required pattern="0[567][0-9]{8}" maxlength="10" 
                title="Phone must be exactly 10 digits and start with 05, 06, or 07.">
                
+        <!-- Email is now optional -->
         <input type="email" id="email" placeholder="Email (Optional)">
         
         <input type="password" id="password" placeholder="Password" 
                required pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@#$%^&+=])[^\s]{8,}$" 
                title="Password must be at least 8 characters, include an uppercase letter, a lowercase letter, a digit, one symbol (@#$%^&+=), and no spaces.">
 
+        <!-- Wilaya Dropdown -->
         <select id="wilaya_code" required>
             <option value="">Select Wilaya...</option>
-            <!-- Abridged for example, keep your 58 wilayas here -->
             <option value="01">01 - Adrar</option>
+            <option value="02">02 - Chlef</option>
+            <option value="03">03 - Laghouat</option>
+            <option value="04">04 - Oum El Bouaghi</option>
+            <option value="05">05 - Batna</option>
+            <option value="06">06 - Béjaïa</option>
+            <option value="07">07 - Biskra</option>
+            <option value="08">08 - Béchar</option>
+            <option value="09">09 - Blida</option>
+            <option value="10">10 - Bouira</option>
+            <option value="11">11 - Tamanrasset</option>
+            <option value="12">12 - Tébessa</option>
+            <option value="13">13 - Tlemcen</option>
+            <option value="14">14 - Tiaret</option>
+            <option value="15">15 - Tizi Ouzou</option>
             <option value="16">16 - Alger</option>
+            <option value="17">17 - Djelfa</option>
+            <option value="18">18 - Jijel</option>
+            <option value="19">19 - Sétif</option>
+            <option value="20">20 - Saïda</option>
+            <option value="21">21 - Skikda</option>
+            <option value="22">22 - Sidi Bel Abbès</option>
+            <option value="23">23 - Annaba</option>
+            <option value="24">24 - Guelma</option>
+            <option value="25">25 - Constantine</option>
+            <option value="26">26 - Médéa</option>
+            <option value="27">27 - Mostaganem</option>
+            <option value="28">28 - M'Sila</option>
+            <option value="29">29 - Mascara</option>
+            <option value="30">30 - Ouargla</option>
+            <option value="31">31 - Oran</option>
+            <option value="32">32 - El Bayadh</option>
+            <option value="33">33 - Illizi</option>
+            <option value="34">34 - Bordj Bou Arréridj</option>
+            <option value="35">35 - Boumerdès</option>
+            <option value="36">36 - El Tarf</option>
+            <option value="37">37 - Tindouf</option>
+            <option value="38">38 - Tissemsilt</option>
+            <option value="39">39 - El Oued</option>
+            <option value="40">40 - Khenchela</option>
+            <option value="41">41 - Souk Ahras</option>
+            <option value="42">42 - Tipaza</option>
+            <option value="43">43 - Mila</option>
+            <option value="44">44 - Aïn Defla</option>
+            <option value="45">45 - Naâma</option>
+            <option value="46">46 - Aïn Témouchent</option>
+            <option value="47">47 - Ghardaïa</option>
+            <option value="48">48 - Relizane</option>
+            <option value="49">49 - Timimoun</option>
+            <option value="50">50 - Bordj Badji Mokhtar</option>
+            <option value="51">51 - Ouled Djellal</option>
+            <option value="52">52 - Béni Abbès</option>
+            <option value="53">53 - In Salah</option>
+            <option value="54">54 - In Guezzam</option>
+            <option value="55">55 - Touggourt</option>
+            <option value="56">56 - Djanet</option>
+            <option value="57">57 - El M'Ghair</option>
             <option value="58">58 - El Meniaa</option>
         </select>
 
+        <!-- Commune Dropdown (Dynamically Populated) -->
         <select id="commune_code" required disabled>
             <option value="">Select Commune...</option>
         </select>
 
-        <button type="submit" id="submitBtn">Send to Bot</button>
+        <button type="submit" id="submitBtn">Open in Telegram</button>
     </form>
 
     <script>
-        // Tell Telegram that the Web App is ready to be displayed
-        Telegram.WebApp.ready();
+        // ==========================================
+        // ⚠️ EDIT THIS VARIABLE BEFORE DEPLOYING
+        // ==========================================
+        // Enter your bot's username without the @ symbol (e.g., 'MyAdhahiBot')
+        const BOT_USERNAME = 'Adhahi_16bot'; 
+        // ==========================================
 
         const wilayaSelect = document.getElementById('wilaya_code');
         const communeSelect = document.getElementById('commune_code');
         const form = document.getElementById('dataForm');
         const submitBtn = document.getElementById('submitBtn');
 
-        // Fetch Communes
+        // Fetch Communes from LOCAL GitHub folder
         wilayaSelect.addEventListener('change', async (e) => {
             const wilayaCode = e.target.value;
             
@@ -86,21 +148,31 @@
 
             try {
                 const localFileId = parseInt(wilayaCode, 10);
+
+                // Prevent cache issues
                 const localUrl = `./communes/${localFileId}.json?v=${Date.now()}`;
+
                 let response;
 
+                // Retry up to 3 times
                 for (let i = 0; i < 3; i++) {
                     try {
-                        response = await fetch(localUrl, { cache: "no-store" });
+                        response = await fetch(localUrl, {
+                            cache: "no-store"
+                        });
+
                         if (response.ok) break;
                     } catch(err) {
                         console.log("Retry:", i + 1);
                     }
                 }
 
-                if (!response || !response.ok) throw new Error("Failed to load communes");
+                if (!response || !response.ok) {
+                    throw new Error("Failed to load communes");
+                }
 
                 const communes = await response.json();
+
                 communeSelect.innerHTML = '<option value="">Select Commune...</option>';
 
                 communes.forEach(commune => {
@@ -120,33 +192,36 @@
             }
         });
 
-        // Form Submission Logic - PATH 1
+        // Handle Form Submission & Open Telegram Client
         form.addEventListener('submit', (e) => {
+            // Prevent the page from refreshing
             e.preventDefault(); 
             
             const name = document.getElementById('name').value.trim();
             const nin = document.getElementById('nin').value.trim();
             const cni = document.getElementById('cni').value.trim();
             const phone = document.getElementById('phone').value.trim();
-            const email = document.getElementById('email').value.trim(); 
+            const email = document.getElementById('email').value.trim(); // Will just be empty string if left blank
             const password = document.getElementById('password').value.trim();
             const wilaya_code = document.getElementById('wilaya_code').value.trim();
             const commune_code = document.getElementById('commune_code').value.trim();
 
+            // Create the command string
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
-            // Check if we are inside Telegram
+            // Create the Telegram deep link URL with BACKTICKS
+            const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`; 
+
+            // Check if opened inside Telegram's WebApp
             if (window.Telegram && window.Telegram.WebApp && window.Telegram.WebApp.initData) {
-                
-                // This will send the command to the bot AND close the Web App automatically
-                // NOTE: This will fail silently if opened via the Menu Button.
-                Telegram.WebApp.sendData(commandString);
-                
+                // Native Telegram method: Bypasses the popup blocker safely
+                Telegram.WebApp.openTelegramLink(telegramUrl);
             } else {
-                alert("Please open this form using the Reply Keyboard inside Telegram.");
+                // Fallback for normal web browsers (Chrome, Safari, etc.)
+                window.open(telegramUrl, '_blank');
             }
 
-            // Reset form
+            // Reset the form so it's ready for the next entry
             form.reset();
             communeSelect.innerHTML = '<option value="">Select Commune...</option>';
             communeSelect.disabled = true;
