@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adhahi Data Entry Form</title>
+    
+    <!-- REQUIRED: Telegram Web App Library to communicate with the app -->
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    
     <style>
         body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f9; }
         form { background: #fff; padding: 20px; border-radius: 8px; max-width: 400px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; gap: 15px; margin: auto; }
@@ -38,7 +42,7 @@
                required pattern="0[567][0-9]{8}" maxlength="10" 
                title="Phone must be exactly 10 digits and start with 05, 06, or 07.">
                
-        <!-- Email is now optional -->
+        <!-- Email is optional -->
         <input type="email" id="email" placeholder="Email (Optional)">
         
         <input type="password" id="password" placeholder="Password" 
@@ -143,58 +147,49 @@
             }
 
             try {
-    const localFileId = parseInt(wilayaCode, 10);
+                const localFileId = parseInt(wilayaCode, 10);
 
-    // Prevent cache issues
-    const localUrl =
-      `./communes/${localFileId}.json?v=${Date.now()}`;
+                // Prevent cache issues
+                const localUrl = `./communes/${localFileId}.json?v=${Date.now()}`;
 
-    let response;
+                let response;
 
-    // Retry up to 3 times
-    for (let i = 0; i < 3; i++) {
-        try {
-            response = await fetch(localUrl, {
-                cache: "no-store"
-            });
+                // Retry up to 3 times
+                for (let i = 0; i < 3; i++) {
+                    try {
+                        response = await fetch(localUrl, {
+                            cache: "no-store"
+                        });
 
-            if (response.ok) break;
-        } catch(err) {
-            console.log("Retry:", i + 1);
-        }
-    }
+                        if (response.ok) break;
+                    } catch(err) {
+                        console.log("Retry:", i + 1);
+                    }
+                }
 
-    if (!response || !response.ok) {
-        throw new Error("Failed to load communes");
-    }
+                if (!response || !response.ok) {
+                    throw new Error("Failed to load communes");
+                }
 
-    const communes = await response.json();
+                const communes = await response.json();
 
-    communeSelect.innerHTML =
-      '<option value="">Select Commune...</option>';
+                communeSelect.innerHTML = '<option value="">Select Commune...</option>';
 
-    communes.forEach(commune => {
-        const option = document.createElement('option');
+                communes.forEach(commune => {
+                    const option = document.createElement('option');
+                    option.value = commune.code;
+                    option.textContent = `${commune.code} - ${commune.name}`;
+                    communeSelect.appendChild(option);
+                });
 
-        option.value = commune.code;
-        option.textContent =
-          `${commune.code} - ${commune.name}`;
+                communeSelect.disabled = false;
+                submitBtn.disabled = false;
 
-        communeSelect.appendChild(option);
-    });
-
-    communeSelect.disabled = false;
-    submitBtn.disabled = false;
-
-} catch (error) {
-
-    console.error(error);
-
-    communeSelect.innerHTML =
-      '<option value="">Error loading data</option>';
-
-    alert("Could not load commune data.");
-}
+            } catch (error) {
+                console.error(error);
+                communeSelect.innerHTML = '<option value="">Error loading data</option>';
+                alert("Could not load commune data.");
+            }
         });
 
         // Handle Form Submission & Open Telegram Client
@@ -206,7 +201,7 @@
             const nin = document.getElementById('nin').value.trim();
             const cni = document.getElementById('cni').value.trim();
             const phone = document.getElementById('phone').value.trim();
-            const email = document.getElementById('email').value.trim(); // Will just be empty string if left blank
+            const email = document.getElementById('email').value.trim(); 
             const password = document.getElementById('password').value.trim();
             const wilaya_code = document.getElementById('wilaya_code').value.trim();
             const commune_code = document.getElementById('commune_code').value.trim();
@@ -214,10 +209,17 @@
             // Create the command string
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
-            // Create the Telegram deep link URL
-            const telegramUrl = https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}; 
-            // Open the user's Telegram app/web in a new tab with the pre-filled text 
-            window.open(telegramUrl, '_blank');
+            // Create the Telegram deep link URL using backticks
+            const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`; 
+
+            // Check if the site is opened inside Telegram's WebApp environment
+            if (window.Telegram && window.Telegram.WebApp && window.Telegram.WebApp.initData) {
+                // Use the native Telegram method to open links safely inside the app
+                Telegram.WebApp.openTelegramLink(telegramUrl);
+            } else {
+                // Fallback for standard web browsers
+                window.open(telegramUrl, '_blank');
+            }
 
             // Reset the form so it's ready for the next entry
             form.reset();
