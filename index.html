@@ -143,31 +143,58 @@
             }
 
             try {
-                const localFileId = parseInt(wilayaCode, 10);
-                const localUrl = `./communes/${localFileId}.json`;
-                
-                const response = await fetch(localUrl);
-                
-                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-                
-                const communes = await response.json();
+    const localFileId = parseInt(wilayaCode, 10);
 
-                communeSelect.innerHTML = '<option value="">Select Commune...</option>';
-                
-                communes.forEach(commune => {
-                    const option = document.createElement('option');
-                    option.value = commune.code; 
-                    option.textContent = `${commune.code} - ${commune.name}`; 
-                    communeSelect.appendChild(option);
-                });
+    // Prevent cache issues
+    const localUrl =
+      `./communes/${localFileId}.json?v=${Date.now()}`;
 
-                communeSelect.disabled = false;
-                submitBtn.disabled = false;
-            } catch (error) {
-                console.error("Failed to load local communes:", error);
-                communeSelect.innerHTML = '<option value="">Error loading data</option>';
-                alert("Could not load commune data. Make sure the 'communes' folder is uploaded.");
-            }
+    let response;
+
+    // Retry up to 3 times
+    for (let i = 0; i < 3; i++) {
+        try {
+            response = await fetch(localUrl, {
+                cache: "no-store"
+            });
+
+            if (response.ok) break;
+        } catch(err) {
+            console.log("Retry:", i + 1);
+        }
+    }
+
+    if (!response || !response.ok) {
+        throw new Error("Failed to load communes");
+    }
+
+    const communes = await response.json();
+
+    communeSelect.innerHTML =
+      '<option value="">Select Commune...</option>';
+
+    communes.forEach(commune => {
+        const option = document.createElement('option');
+
+        option.value = commune.code;
+        option.textContent =
+          `${commune.code} - ${commune.name}`;
+
+        communeSelect.appendChild(option);
+    });
+
+    communeSelect.disabled = false;
+    submitBtn.disabled = false;
+
+} catch (error) {
+
+    console.error(error);
+
+    communeSelect.innerHTML =
+      '<option value="">Error loading data</option>';
+
+    alert("Could not load commune data.");
+}
         });
 
         // Handle Form Submission & Open Telegram Client
@@ -191,7 +218,7 @@
             const telegramUrl = `https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}`;
 
             // Open the user's Telegram app/web in a new tab with the pre-filled text
-            window.open(telegramUrl, '_blank');
+            window.location.href = telegramUrl;
 
             // Reset the form so it's ready for the next entry
             form.reset();
