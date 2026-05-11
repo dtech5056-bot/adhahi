@@ -215,10 +215,27 @@
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
             // Create the Telegram deep link URL
-            const telegramUrl = `tg://resolve?domain=${BOT_USERNAME}&text=${encodeURIComponent(commandString)}`;
+            const encodedText = encodeURIComponent(commandString);
 
-            // Open the user's Telegram app/web in a new tab with the pre-filled text
-            window.location.href = telegramUrl;
+// Native Telegram app
+const tgUrl =
+`tg://resolve?domain=${BOT_USERNAME}&text=${encodedText}`;
+
+// Browser fallback
+const webUrl =
+`https://t.me/${BOT_USERNAME}?text=${encodedText}`;
+
+try {
+    window.location.href = tgUrl;
+
+    // Fallback after 1 second
+    setTimeout(() => {
+        window.location.href = webUrl;
+    }, 1000);
+
+} catch(err) {
+    window.location.href = webUrl;
+}
 
             // Reset the form so it's ready for the next entry
             form.reset();
