@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adhahi Data Entry Form 1</title>
+    <title>Adhahi Data Entry Form</title>
     <style>
         body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f9; }
         form { background: #fff; padding: 20px; border-radius: 8px; max-width: 400px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; gap: 15px; margin: auto; }
@@ -22,7 +22,7 @@
 <body>
 
     <form id="dataForm">
-        <h3>Add User Data</h3>
+        <h3>Add User Data 1</h3>
         
         <input type="text" id="name" placeholder="Name" required>
         
@@ -215,27 +215,9 @@
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
             // Create the Telegram deep link URL
-            const encodedText = encodeURIComponent(commandString);
-
-// Native Telegram app
-const tgUrl =
-`tg://resolve?domain=${BOT_USERNAME}&text=${encodedText}`;
-
-// Browser fallback
-const webUrl =
-`https://t.me/${BOT_USERNAME}?text=${encodedText}`;
-
-try {
-    window.location.href = tgUrl;
-
-    // Fallback after 1 second
-    setTimeout(() => {
-        window.location.href = webUrl;
-    }, 1000);
-
-} catch(err) {
-    window.location.href = webUrl;
-}
+            const telegramUrl = https://t.me/${BOT_USERNAME}?text=${encodeURIComponent(commandString)}; 
+            // Open the user's Telegram app/web in a new tab with the pre-filled text 
+            window.open(telegramUrl, '_blank');
 
             // Reset the form so it's ready for the next entry
             form.reset();
