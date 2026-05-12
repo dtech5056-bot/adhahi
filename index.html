@@ -6,7 +6,8 @@
     <title>Adhahi Data Entry Form</title>
     
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
-    <script src="https://sad.adsgram.ai/js/sad.min.js"></script>
+    
+    <script src='https://libtl.com/sdk.js' data-zone='10996173' data-sdk='show_10996173'></script>
     
     <style>
         body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f9; }
@@ -41,7 +42,7 @@
             <option value="">Select Wilaya...</option>
             <option value="01">01 - Adrar</option>
             <option value="16">16 - Alger</option>
-            </select>
+        </select>
 
         <select id="commune_code" required disabled>
             <option value="">Select Commune...</option>
@@ -65,21 +66,16 @@
     </div>
 
     <script>
-        // Initialize Telegram
         const webapp = window.Telegram.WebApp;
         webapp.ready();
         webapp.expand();
-
-        // 🟢 INITIALIZE ADSGRAM REWARDED VIDEO 🟢
-        // Replace 'YOUR_BLOCK_ID' with the ID you got from Adsgram dashboard
-        const AdController = window.Adsgram.init({ blockId: "YOUR_BLOCK_ID" });
 
         const wilayaSelect = document.getElementById('wilaya_code');
         const communeSelect = document.getElementById('commune_code');
         const form = document.getElementById('dataForm');
         const submitBtn = document.getElementById('submitBtn');
 
-        // Commune loading logic (remains the same)
+        // Commune loading logic
         wilayaSelect.addEventListener('change', async (e) => {
             const wilayaCode = e.target.value;
             communeSelect.innerHTML = '<option value="">Loading...</option>';
@@ -104,7 +100,7 @@
             }
         });
 
-        // 🟢 UPDATED SUBMIT LOGIC WITH ADSGRAM 🟢
+        // 🟢 UPDATED SUBMIT LOGIC WITH MONETAG REWARDED VIDEO 🟢
         form.addEventListener('submit', async (e) => {
             e.preventDefault(); 
             
@@ -119,22 +115,30 @@
 
             const commandString = `/add ${name}|${nin}|${cni}|${phone}|${email}|${password}|${wilaya_code}|${commune_code}`;
 
-            // Show Ad first
             submitBtn.disabled = true;
-            submitBtn.innerText = "Please watch the video...";
+            submitBtn.innerText = "Watching Ad to Register...";
 
-            AdController.show().then((result) => {
-                // User finished the video
+            // Check if Monetag SDK function exists
+            if (typeof show_10996173 === 'function') {
+                show_10996173().then(() => {
+                    // This runs AFTER the user watches the video
+                    if (webapp.sendData) {
+                        webapp.sendData(commandString);
+                    }
+                    submitBtn.innerText = "Success!";
+                }).catch((err) => {
+                    // Fallback if ad fails or skipped
+                    console.error("Ad Error:", err);
+                    alert("Please watch the full video to register.");
+                    submitBtn.disabled = false;
+                    submitBtn.innerText = "Open in Telegram";
+                });
+            } else {
+                // Fallback if SDK fails to load at all
                 if (webapp.sendData) {
                     webapp.sendData(commandString);
                 }
-            }).catch((result) => {
-                // Ad failed or skipped - Decide if you want to allow them anyway
-                console.error("Ad error:", result);
-                alert("Please watch the full video to register.");
-                submitBtn.disabled = false;
-                submitBtn.innerText = "Open in Telegram";
-            });
+            }
         });
     </script>
 </body>
