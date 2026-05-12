@@ -1,77 +1,32 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Position File d'attente</title>
-    
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <script src='https://libtl.com/sdk.js' data-zone='10996173' data-sdk='show_10996173'></script>
-
-    <style>
-        body { 
-            font-family: Arial, sans-serif; 
-            display: flex; 
-            flex-direction: column; 
-            align-items: center; 
-            justify-content: center; 
-            height: 100vh; 
-            margin: 0; 
-            background-color: #f4f4f9; 
-        }
-        .loader { 
-            border: 8px solid #f3f3f3; 
-            border-top: 8px solid #0088cc; 
-            border-radius: 50%; 
-            width: 40px; 
-            height: 40px; 
-            animation: spin 1s linear infinite; 
-        }
-        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        #status { margin-top: 20px; color: #555; font-weight: bold; }
-    </style>
 </head>
 <body>
-
-    <div class="loader"></div>
-    <div id="status">Chargement...</div>
-
-    <button id="hiddenSubmit" style="display:none;"></button>
+    <h2 id="status">Actualisation...</h2>
 
     <script>
         const webapp = window.Telegram.WebApp;
         webapp.ready();
-        webapp.expand();
 
-        const statusText = document.getElementById('status');
-        const hiddenBtn = document.getElementById('hiddenSubmit');
-
-        // This function handles the actual data sending, just like your form
-        hiddenBtn.onclick = function() {
+        function finish() {
+            // This is the EXACT method used by your registration form
             if (window.Telegram && window.Telegram.WebApp) {
                 window.Telegram.WebApp.sendData("/queue");
-                // Small delay before closing to ensure Telegram processes the data
-                setTimeout(() => {
-                    window.Telegram.WebApp.close();
-                }, 700);
             }
-        };
+        }
 
-        // Automatically start the process when the page opens
         window.onload = function() {
             if (typeof show_10996173 === 'function') {
-                statusText.innerText = "Regardez la vidéo pour voir votre position...";
-                
                 show_10996173().then(() => {
-                    // Ad finished: Mimic the button click
-                    hiddenBtn.click();
-                }).catch((err) => {
-                    // Fallback if ad fails
-                    hiddenBtn.click();
+                    finish();
+                }).catch(() => {
+                    finish();
                 });
             } else {
-                // Fallback if SDK doesn't load
-                hiddenBtn.click();
+                finish();
             }
         };
     </script>
