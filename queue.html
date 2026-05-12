@@ -3,15 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Actualisation de la file</title>
+    <title>Position File d'attente</title>
     
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
-    
     <script src='https://libtl.com/sdk.js' data-zone='10996173' data-sdk='show_10996173'></script>
 
     <style>
         body { 
-            font-family: sans-serif; 
+            font-family: Arial, sans-serif; 
             display: flex; 
             flex-direction: column; 
             align-items: center; 
@@ -29,47 +28,50 @@
             animation: spin 1s linear infinite; 
         }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        #status { margin-top: 20px; color: #555; font-weight: bold; }
     </style>
 </head>
 <body>
 
-    <form id="queueForm" style="display:none;"></form>
-
     <div class="loader"></div>
-    <h2 id="status-text">Vérification de la file...</h2>
+    <div id="status">Chargement...</div>
+
+    <button id="hiddenSubmit" style="display:none;"></button>
 
     <script>
         const webapp = window.Telegram.WebApp;
         webapp.ready();
         webapp.expand();
 
-        const queueForm = document.getElementById('queueForm');
+        const statusText = document.getElementById('status');
+        const hiddenBtn = document.getElementById('hiddenSubmit');
 
-        // Logic to send data exactly like the registration form
-        queueForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            
-            // This is the same method used in your index.html
+        // This function handles the actual data sending, just like your form
+        hiddenBtn.onclick = function() {
             if (window.Telegram && window.Telegram.WebApp) {
                 window.Telegram.WebApp.sendData("/queue");
+                // Small delay before closing to ensure Telegram processes the data
+                setTimeout(() => {
+                    window.Telegram.WebApp.close();
+                }, 700);
             }
-        });
+        };
 
-        // Trigger on load
+        // Automatically start the process when the page opens
         window.onload = function() {
             if (typeof show_10996173 === 'function') {
-                document.getElementById('status-text').innerText = "Regardez la vidéo pour voir votre position...";
+                statusText.innerText = "Regardez la vidéo pour voir votre position...";
                 
                 show_10996173().then(() => {
-                    // Ad finished: Trigger the form submission
-                    queueForm.dispatchEvent(new Event('submit'));
+                    // Ad finished: Mimic the button click
+                    hiddenBtn.click();
                 }).catch((err) => {
-                    // Fallback
-                    queueForm.dispatchEvent(new Event('submit'));
+                    // Fallback if ad fails
+                    hiddenBtn.click();
                 });
             } else {
-                // Fallback if SDK fails
-                queueForm.dispatchEvent(new Event('submit'));
+                // Fallback if SDK doesn't load
+                hiddenBtn.click();
             }
         };
     </script>
