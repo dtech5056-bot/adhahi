@@ -3,48 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Position dans la file d'attente</title>
+    <title>Actualisation de la file 2</title>
     
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
-    
     <script src='https://libtl.com/sdk.js' data-zone='10996173' data-sdk='show_10996173'></script>
 
     <style>
-        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #f4f4f9; color: #333; }
-        .loader { border: 8px solid #f3f3f3; border-top: 8px solid #0088cc; border-radius: 50%; width: 50px; height: 50px; animation: spin 1s linear infinite; margin-bottom: 20px; }
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #f4f4f9; }
+        .loader { border: 8px solid #f3f3f3; border-top: 8px solid #0088cc; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        h2 { font-size: 18px; padding: 0 20px; }
     </style>
 </head>
 <body>
 
     <div class="loader"></div>
-    <h2>Actualisation de votre position...</h2>
-    <p>Veuillez patienter pendant le chargement.</p>
+    <h2 id="status-text">Chargement de la publicité...</h2>
 
     <script>
         const webapp = window.Telegram.WebApp;
         webapp.ready();
+        webapp.expand();
 
-        // 🟢 AUTO-TRIGGER ON LOAD 🟢
+        // Function to send data and close
+        function finishQueue() {
+            webapp.sendData("/queue");
+            // Give Telegram 500ms to send the message before closing the window
+            setTimeout(() => {
+                webapp.close();
+            }, 500);
+        }
+
+        // Trigger logic on page load
         window.onload = function() {
-            // Check if Monetag is ready
             if (typeof show_10996173 === 'function') {
+                document.getElementById('status-text').innerText = "Regardez la vidéo pour voir votre position...";
+                
                 show_10996173().then(() => {
-                    // This runs AFTER the ad is closed
-                    // It sends "/queue" to the bot automatically
-                    webapp.sendData("/queue"); 
-                    webapp.close(); // Closes the webview and returns to the chat
+                    // This runs AFTER the user watches the video
+                    finishQueue();
                 }).catch((err) => {
-                    // Fallback if the ad fails to load
-                    console.error("Ad failed:", err);
-                    webapp.sendData("/queue");
-                    webapp.close();
+                    console.error("Ad error:", err);
+                    finishQueue();
                 });
             } else {
-                // Fallback if SDK isn't present
-                webapp.sendData("/queue");
-                webapp.close();
+                // If ad fails to load, just send the command
+                finishQueue();
             }
         };
     </script>
