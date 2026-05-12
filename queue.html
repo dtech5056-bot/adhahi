@@ -3,51 +3,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Actualisation de la file 2</title>
+    <title>Actualisation de la file</title>
     
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    
     <script src='https://libtl.com/sdk.js' data-zone='10996173' data-sdk='show_10996173'></script>
 
     <style>
-        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #f4f4f9; }
-        .loader { border: 8px solid #f3f3f3; border-top: 8px solid #0088cc; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; }
+        body { 
+            font-family: sans-serif; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            justify-content: center; 
+            height: 100vh; 
+            margin: 0; 
+            background-color: #f4f4f9; 
+        }
+        .loader { 
+            border: 8px solid #f3f3f3; 
+            border-top: 8px solid #0088cc; 
+            border-radius: 50%; 
+            width: 40px; 
+            height: 40px; 
+            animation: spin 1s linear infinite; 
+        }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
     </style>
 </head>
 <body>
 
+    <form id="queueForm" style="display:none;"></form>
+
     <div class="loader"></div>
-    <h2 id="status-text">Chargement de la publicité...</h2>
+    <h2 id="status-text">Vérification de la file...</h2>
 
     <script>
         const webapp = window.Telegram.WebApp;
         webapp.ready();
         webapp.expand();
 
-        // Function to send data and close
-        function finishQueue() {
-            webapp.sendData("/queue");
-            // Give Telegram 500ms to send the message before closing the window
-            setTimeout(() => {
-                webapp.close();
-            }, 500);
-        }
+        const queueForm = document.getElementById('queueForm');
 
-        // Trigger logic on page load
+        // Logic to send data exactly like the registration form
+        queueForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            // This is the same method used in your index.html
+            if (window.Telegram && window.Telegram.WebApp) {
+                window.Telegram.WebApp.sendData("/queue");
+            }
+        });
+
+        // Trigger on load
         window.onload = function() {
             if (typeof show_10996173 === 'function') {
                 document.getElementById('status-text').innerText = "Regardez la vidéo pour voir votre position...";
                 
                 show_10996173().then(() => {
-                    // This runs AFTER the user watches the video
-                    finishQueue();
+                    // Ad finished: Trigger the form submission
+                    queueForm.dispatchEvent(new Event('submit'));
                 }).catch((err) => {
-                    console.error("Ad error:", err);
-                    finishQueue();
+                    // Fallback
+                    queueForm.dispatchEvent(new Event('submit'));
                 });
             } else {
-                // If ad fails to load, just send the command
-                finishQueue();
+                // Fallback if SDK fails
+                queueForm.dispatchEvent(new Event('submit'));
             }
         };
     </script>
