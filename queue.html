@@ -1,62 +1,18 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Position dans la file d'attente</title>
-    
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
-    
-    <script src='https://libtl.com/sdk.js' data-zone='10996173' data-sdk='show_10996173'></script>
-
-    <style>
-        body { font-family: Arial, sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background-color: #f4f4f9; text-align: center; }
-        .loader { border: 8px solid #f3f3f3; border-top: 8px solid #0088cc; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin-bottom: 20px; }
-        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        h3 { color: #333; font-size: 18px; padding: 0 20px; }
-    </style>
 </head>
 <body>
-
-    <div class="loader"></div>
-    <h3 id="statusText">Vérification de votre position...</h3>
-
-    <form id="queueForm" style="display:none;"></form>
+    <button id="btn" style="padding: 20px; width: 100%;">CLICK TO CHECK QUEUE</button>
 
     <script>
         const webapp = window.Telegram.WebApp;
         webapp.ready();
-        webapp.expand();
 
-        const queueForm = document.getElementById('queueForm');
-        const statusText = document.getElementById('statusText');
-
-        // This listener handles sending data exactly like your registration form
-        queueForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            if (webapp.sendData) {
-                webapp.sendData("/queue");
-            }
-        });
-
-        // Auto-trigger when the page loads
-        window.onload = function() {
-            if (typeof show_10996173 === 'function') {
-                statusText.innerText = "Regardez la vidéo pour voir votre position...";
-                
-                show_10996173().then(() => {
-                    // Ad finished -> Trigger the "submit" logic
-                    queueForm.dispatchEvent(new Event('submit'));
-                    statusText.innerText = "Succès ! Retour au bot...";
-                }).catch((err) => {
-                    // Fallback
-                    console.error("Ad Error:", err);
-                    queueForm.dispatchEvent(new Event('submit'));
-                });
-            } else {
-                // If SDK fails, send data immediately
-                queueForm.dispatchEvent(new Event('submit'));
-            }
+        document.getElementById('btn').onclick = function() {
+            // Using the raw Telegram method
+            webapp.sendData("/queue");
         };
     </script>
 </body>
